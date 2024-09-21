@@ -1,0 +1,1001 @@
+ID_Cliente,Calidad,Precio,Diseño,Tipo_Canal,Soporte,Valoración_Soporte,Valoración_Canal
+Cliente_1,3.0,Muy barato,4.0,Otros Canales,Remoto,1.0,3.0
+Cliente_2,4.0,Barato,0.0,Compra Web,Remoto,5.0,4.0
+Cliente_3,2.0,Aceptable,1.0,Otros Canales,Remoto,5.0,5.0
+Cliente_4,4.0,Muy caro,5.0,Compra Web,Remoto,3.0,5.0
+Cliente_5,4.0,Aceptable,3.0,Otros Canales,Presencial,0.0,1.0
+Cliente_6,1.0,Aceptable,1.0,Compra Web,Chatbot,3.0,4.0
+Cliente_7,2.0,Muy barato,1.0,,Chatbot,3.0,3.0
+Cliente_8,2.0,Barato,5.0,Compra en sitio,Telefónico,3.0,3.0
+Cliente_9,2.0,Caro,0.0,,Remoto,0.0,4.0
+Cliente_10,4.0,Barato,0.0,Compra en sitio,Presencial,0.0,4.0
+Cliente_11,3.0,Barato,0.0,Compra en sitio,Telefónico,4.0,4.0
+Cliente_12,2.0,,0.0,Compra en sitio,Telefónico,1.0,2.0
+Cliente_13,5.0,Barato,4.0,Otros Canales,Chatbot,1.0,3.0
+Cliente_14,4.0,Muy caro,0.0,Otros Canales,Presencial,4.0,5.0
+Cliente_15,1.0,Aceptable,4.0,,Presencial,4.0,3.0
+Cliente_16,3.0,Muy caro,4.0,Otros Canales,Presencial,,2.0
+Cliente_17,5.0,Caro,0.0,Compra Web,Chatbot,3.0,4.0
+Cliente_18,5.0,Varata,2.0,Compra Web,Chatbot,4.0,1.0
+Cliente_19,1.0,Caro,3.0,Otros Canales,Chatbot,2.0,4.0
+Cliente_20,3.0,Aceptable,1.0,Compra Web,Chatbot,1.0,4.0
+Cliente_21,4.0,Muy barato,4.0,Compra Web,Chatbot,4.0,2.0
+Cliente_22,0.0,Barato,5.0,Compra en sitio,Remoto,2.0,3.0
+Cliente_23,3.0,Muy barato,5.0,Compra en sitio,Remoto,2.0,4.0
+Cliente_24,1.0,Caro,3.0,Compra en sitio,Presencial,2.0,3.0
+Cliente_25,5.0,Barato,5.0,Compra en sitio,Telefónico,5.0,0.0
+Cliente_26,4.0,Aceptable,2.0,Compra Web,Presencial,,5.0
+Cliente_27,3.0,,5.0,Otros Canales,Telefónico,2.0,3.0
+Cliente_28,0.0,Muy caro,1.0,Compra Web,Chatbot,5.0,1.0
+Cliente_29,0.0,Barato,1.0,Compra Web,Telefónico,3.0,5.0
+Cliente_30,2.0,Muy caro,4.0,Compra Web,Presencial,2.0,1.0
+Cliente_31,2.0,Barato,0.0,Compra en sitio,,3.0,4.0
+Cliente_32,1.0,Muy caro,2.0,Compra en sitio,Telefónico,3.0,5.0
+Cliente_33,3.0,Caro,4.0,Compra en sitio,Remoto,2.0,3.0
+Cliente_34,3.0,Muy barato,2.0,Otros Canales,Chatbot,1.0,5.0
+Cliente_35,5.0,Aceptable,0.0,Compra Web,Chatbot,2.0,4.0
+Cliente_36,5.0,Barato,5.0,Otros Canales,Presencial,2.0,2.0
+Cliente_37,5.0,Muy barato,5.0,Compra en sitio,Remoto,5.0,1.0
+Cliente_38,2.0,Aceptable,0.0,Otros Canales,Telefónico,2.0,4.0
+Cliente_39,3.0,Aceptable,4.0,Compra Web,Chatbot,1.0,2.0
+Cliente_40,3.0,Muy caro,0.0,Compra Web,Remoto,5.0,5.0
+Cliente_41,0.0,Caro,3.0,Compra en sitio,Chatbot,0.0,5.0
+Cliente_42,2.0,Caro,1.0,Compra en sitio,Remoto,0.0,4.0
+Cliente_43,4.0,Muy barato,4.0,Otros Canales,Remoto,3.0,3.0
+Cliente_44,2.0,Caro,2.0,Compra en sitio,Presencial,3.0,5.0
+Cliente_45,4.0,Barato,3.0,Compra en sitio,Chatbot,1.0,3.0
+Cliente_46,0.0,Caro,4.0,Compra Web,Telefónico,,3.0
+Cliente_47,1.0,Muy barato,0.0,Compra en sitio,Presencial,0.0,3.0
+Cliente_48,,Caro,0.0,Compra en sitio,,3.0,0.0
+Cliente_49,0.0,Barato,0.0,,Telefónico,0.0,2.0
+Cliente_50,3.0,Muy caro,0.0,Compra Web,,1.0,2.0
+Cliente_51,5.0,Muy barato,2.0,Otros Canales,Remoto,1.0,5.0
+Cliente_52,1.0,Muy caro,3.0,Compra en sitio,Remoto,4.0,5.0
+Cliente_53,1.0,Muy caro,5.0,Compra Web,Chatbot,4.0,3.0
+Cliente_54,0.0,Muy caro,1.0,Otros Canales,Chatbot,5.0,0.0
+Cliente_55,1.0,Aceptable,2.0,Otros Canales,Telefónico,1.0,3.0
+Cliente_56,4.0,Aceptable,2.0,Compra en sitio,Chatbot,3.0,0.0
+Cliente_57,1.0,Muy caro,5.0,Compra en sitio,Remoto,0.0,3.0
+Cliente_58,3.0,Muy barato,5.0,Otros Canales,Telefónico,2.0,1.0
+Cliente_59,3.0,Barato,1.0,Compra Web,Telefónico,4.0,1.0
+Cliente_60,3.0,Barato,1.0,Otros Canales,,2.0,4.0
+Cliente_61,3.0,Caro,5.0,Compra en sitio,Remoto,3.0,3.0
+Cliente_62,4.0,Muy barato,0.0,Compra Web,Telefónico,4.0,5.0
+Cliente_63,2.0,Aceptable,2.0,Compra Web,Remoto,2.0,2.0
+Cliente_64,5.0,Muy caro,4.0,Otros Canales,Remoto,3.0,4.0
+Cliente_65,0.0,Caro,1.0,Compra en sitio,Remoto,0.0,5.0
+Cliente_66,3.0,Barato,1.0,Otros Canales,Chatbot,3.0,1.0
+Cliente_67,1.0,Aceptable,5.0,Otros Canales,Presencial,5.0,3.0
+Cliente_68,3.0,Aceptable,3.0,,Presencial,4.0,4.0
+Cliente_69,1.0,Muy caro,4.0,Compra Web,Telefónico,1.0,3.0
+Cliente_70,5.0,Barato,4.0,Compra Web,Remoto,0.0,1.0
+Cliente_71,5.0,Muy barato,1.0,Compra en sitio,Chatbot,2.0,4.0
+Cliente_72,5.0,Aceptable,0.0,Compra en sitio,,4.0,1.0
+Cliente_73,1.0,Muy caro,3.0,Otros Canales,Remoto,1.0,
+Cliente_74,,Muy barato,4.0,Otros Canales,Chatbot,3.0,1.0
+Cliente_75,5.0,Barato,1.0,Otros Canales,Presencial,1.0,3.0
+Cliente_76,4.0,Aceptable,4.0,Compra en sitio,Remoto,4.0,2.0
+Cliente_77,1.0,Muy barato,3.0,Compra Web,Remoto,4.0,1.0
+Cliente_78,1.0,Muy barato,3.0,Compra Web,Presencial,5.0,5.0
+Cliente_79,3.0,Muy barato,2.0,Otros Canales,Chatbot,5.0,2.0
+Cliente_80,1.0,,5.0,Otros Canales,Telefónico,1.0,0.0
+Cliente_81,1.0,Aceptable,5.0,Otros Canales,Presencial,3.0,4.0
+Cliente_82,5.0,Caro,1.0,Otros Canales,Telefónico,1.0,4.0
+Cliente_83,3.0,Barato,3.0,Compra en sitio,Telefónico,4.0,2.0
+Cliente_84,5.0,Muy caro,,Compra Web,Presencial,4.0,4.0
+Cliente_85,5.0,Muy barato,2.0,Otros Canales,Remoto,2.0,1.0
+Cliente_86,3.0,Caro,4.0,Compra en sitio,Telefónico,5.0,2.0
+Cliente_87,0.0,Muy caro,4.0,Otros Canales,Telefónico,2.0,3.0
+Cliente_88,5.0,Caro,2.0,Otros Canales,Chatbot,0.0,1.0
+Cliente_89,4.0,Aceptable,4.0,Compra Web,Remoto,4.0,1.0
+Cliente_90,4.0,Muy barato,3.0,Otros Canales,Telefónico,2.0,
+Cliente_91,1.0,Muy caro,0.0,Compra Web,Chatbot,1.0,3.0
+Cliente_92,4.0,Muy caro,3.0,Compra Web,Remoto,5.0,0.0
+Cliente_93,1.0,Muy caro,2.0,Compra Web,Presencial,5.0,5.0
+Cliente_94,0.0,Muy caro,2.0,Compra en sitio,Presencial,3.0,4.0
+Cliente_95,3.0,Muy caro,3.0,Compra en sitio,Chatbot,1.0,2.0
+Cliente_96,3.0,Caro,4.0,Compra Web,Presencial,3.0,
+Cliente_97,3.0,Muy barato,4.0,Otros Canales,Telefónico,2.0,2.0
+Cliente_98,4.0,Aceptable,5.0,,Remoto,0.0,
+Cliente_99,,Aceptable,2.0,Otros Canales,Telefónico,1.0,3.0
+Cliente_100,4.0,Aceptable,1.0,Compra Web,Telefónico,1.0,1.0
+Cliente_101,4.0,Aceptable,5.0,Otros Canales,Presencial,1.0,1.0
+Cliente_102,0.0,Caro,4.0,Compra en sitio,Telefónico,3.0,3.0
+Cliente_103,0.0,Barato,3.0,Otros Canales,Presencial,2.0,0.0
+Cliente_104,0.0,Muy barato,4.0,Compra Web,Remoto,1.0,0.0
+Cliente_105,0.0,Muy caro,3.0,Compra en sitio,Remoto,1.0,2.0
+Cliente_106,3.0,,5.0,Otros Canales,Telefónico,,3.0
+Cliente_107,2.0,Aceptable,2.0,Otros Canales,Chatbot,0.0,0.0
+Cliente_108,2.0,Barato,4.0,Otros Canales,Presencial,5.0,3.0
+Cliente_109,0.0,Muy barato,3.0,Otros Canales,Presencial,5.0,4.0
+Cliente_110,2.0,Muy caro,2.0,Otros Canales,Telefónico,0.0,1.0
+Cliente_111,2.0,Muy caro,1.0,Compra en sitio,Presencial,2.0,1.0
+Cliente_112,0.0,Muy barato,3.0,Compra en sitio,Presencial,5.0,1.0
+Cliente_113,2.0,Muy barato,5.0,Compra en sitio,Chatbot,2.0,3.0
+Cliente_114,4.0,Aceptable,1.0,Compra en sitio,Chatbot,5.0,3.0
+Cliente_115,1.0,Muy caro,1.0,Compra Web,Telefónico,4.0,2.0
+Cliente_116,1.0,Barato,0.0,Compra en sitio,Chatbot,0.0,1.0
+Cliente_117,0.0,Caro,4.0,Otros Canales,Telefónico,5.0,2.0
+Cliente_118,3.0,Caro,3.0,Otros Canales,Remoto,4.0,1.0
+Cliente_119,0.0,,1.0,Compra en sitio,Telefónico,3.0,2.0
+Cliente_120,3.0,Aceptable,0.0,Otros Canales,Remoto,4.0,2.0
+Cliente_121,1.0,Caro,5.0,Compra en sitio,Telefónico,1.0,4.0
+Cliente_122,0.0,Muy caro,2.0,Otros Canales,Presencial,5.0,2.0
+Cliente_123,5.0,Muy barato,3.0,Compra Web,Chatbot,4.0,3.0
+Cliente_124,4.0,Barato,1.0,Compra Web,Remoto,,2.0
+Cliente_125,2.0,Muy barato,4.0,,Telefónico,3.0,1.0
+Cliente_126,3.0,Varata,0.0,Compra en sitio,Chatbot,5.0,2.0
+Cliente_127,5.0,Muy barato,1.0,,Telefónico,1.0,0.0
+Cliente_128,2.0,Muy barato,4.0,Otros Canales,Chatbot,4.0,5.0
+Cliente_129,2.0,Muy barato,1.0,Compra en sitio,Chatbot,3.0,1.0
+Cliente_130,0.0,Barato,3.0,Compra Web,Telefónico,5.0,0.0
+Cliente_131,2.0,Barato,3.0,Otros Canales,Remoto,3.0,1.0
+Cliente_132,4.0,Muy barato,3.0,Compra en sitio,Remoto,1.0,3.0
+Cliente_133,5.0,Caro,5.0,Otros Canales,Presencial,4.0,5.0
+Cliente_134,2.0,Aceptable,5.0,Otros Canales,Chatbot,3.0,5.0
+Cliente_135,0.0,Aceptable,0.0,Compra en sitio,Presencial,3.0,3.0
+Cliente_136,4.0,Aceptable,3.0,Otros Canales,Presencial,0.0,5.0
+Cliente_137,1.0,Barato,4.0,Compra Web,Telefónico,3.0,3.0
+Cliente_138,5.0,Barato,1.0,Compra Web,Telefónico,0.0,0.0
+Cliente_139,2.0,Caro,2.0,,Telefónico,4.0,4.0
+Cliente_140,0.0,,4.0,Compra en sitio,Chatbot,5.0,1.0
+Cliente_141,1.0,Aceptable,5.0,Otros Canales,Telefónico,5.0,3.0
+Cliente_142,1.0,Muy barato,5.0,Compra Web,Telefónico,4.0,1.0
+Cliente_143,,Barato,4.0,Otros Canales,Chatbot,4.0,0.0
+Cliente_144,4.0,Aceptable,5.0,Otros Canales,Chatbot,2.0,
+Cliente_145,2.0,Caro,3.0,Compra Web,Remoto,4.0,0.0
+Cliente_146,0.0,Caro,0.0,Otros Canales,,3.0,5.0
+Cliente_147,3.0,Aceptable,1.0,Otros Canales,Telefónico,5.0,1.0
+Cliente_148,4.0,Barato,0.0,Compra en sitio,Telefónico,1.0,4.0
+Cliente_149,3.0,Caro,1.0,Compra en sitio,Remoto,5.0,5.0
+Cliente_150,5.0,Muy barato,1.0,Compra Web,Telefónico,0.0,4.0
+Cliente_151,4.0,Caro,0.0,Compra Web,Remoto,5.0,5.0
+Cliente_152,4.0,,4.0,Compra Web,Presencial,,0.0
+Cliente_153,2.0,Muy caro,1.0,Compra en sitio,Remoto,4.0,3.0
+Cliente_154,4.0,Barato,0.0,Compra Web,Presencial,,1.0
+Cliente_155,3.0,Aceptable,1.0,Compra Web,Telefónico,5.0,2.0
+Cliente_156,4.0,Barato,2.0,Compra Web,Presencial,1.0,2.0
+Cliente_157,2.0,Barato,4.0,Compra en sitio,Remoto,1.0,0.0
+Cliente_158,2.0,Barato,3.0,Otros Canales,Chatbot,2.0,1.0
+Cliente_159,5.0,Barato,1.0,Compra Web,Presencial,0.0,1.0
+Cliente_160,3.0,Muy barato,2.0,Otros Canales,Presencial,5.0,0.0
+Cliente_161,1.0,Muy barato,3.0,Compra Web,Telefónico,4.0,1.0
+Cliente_162,1.0,Caro,3.0,Otros Canales,Remoto,5.0,3.0
+Cliente_163,4.0,Muy caro,1.0,Compra en sitio,,2.0,0.0
+Cliente_164,5.0,Barato,0.0,Compra en sitio,Presencial,3.0,3.0
+Cliente_165,0.0,Caro,1.0,Compra Web,Presencial,3.0,1.0
+Cliente_166,4.0,,2.0,Otros Canales,Presencial,2.0,
+Cliente_167,5.0,Aceptable,3.0,Compra en sitio,Chatbot,4.0,1.0
+Cliente_168,3.0,Muy barato,1.0,Compra Web,Remoto,2.0,0.0
+Cliente_169,3.0,Muy caro,0.0,Compra Web,Telefónico,4.0,1.0
+Cliente_170,3.0,Aceptable,1.0,Compra en sitio,Telefónico,1.0,3.0
+Cliente_171,3.0,Muy caro,4.0,Compra en sitio,Chatbot,2.0,3.0
+Cliente_172,3.0,Muy barato,0.0,Compra Web,Remoto,4.0,1.0
+Cliente_173,5.0,Muy barato,,Otros Canales,Presencial,2.0,0.0
+Cliente_174,5.0,Caro,3.0,Otros Canales,Chatbot,2.0,2.0
+Cliente_175,2.0,Barato,1.0,Otros Canales,Remoto,4.0,3.0
+Cliente_176,1.0,Muy caro,0.0,Compra Web,Presencial,4.0,3.0
+Cliente_177,3.0,Muy caro,4.0,Compra en sitio,Chatbot,0.0,5.0
+Cliente_178,0.0,Aceptable,0.0,Compra Web,Remoto,2.0,2.0
+Cliente_179,5.0,Muy barato,5.0,Compra en sitio,Telefónico,3.0,1.0
+Cliente_180,0.0,Muy caro,,Otros Canales,Telefónico,2.0,0.0
+Cliente_181,0.0,Muy barato,2.0,Otros Canales,Remoto,2.0,5.0
+Cliente_182,0.0,Muy caro,3.0,Compra en sitio,Telefónico,4.0,1.0
+Cliente_183,,Caro,2.0,Compra en sitio,Remoto,2.0,4.0
+Cliente_184,5.0,Barato,1.0,Compra Web,Presencial,5.0,3.0
+Cliente_185,0.0,Muy caro,0.0,Otros Canales,Remoto,,4.0
+Cliente_186,3.0,Muy barato,5.0,Compra Web,Presencial,5.0,3.0
+Cliente_187,4.0,Caro,4.0,Compra Web,Chatbot,3.0,3.0
+Cliente_188,0.0,Muy caro,4.0,Compra Web,Remoto,4.0,4.0
+Cliente_189,2.0,Aceptable,0.0,Otros Canales,Chatbot,2.0,
+Cliente_190,5.0,Barato,5.0,Compra Web,Telefónico,5.0,1.0
+Cliente_191,2.0,Muy caro,0.0,Compra Web,Presencial,5.0,5.0
+Cliente_192,0.0,,1.0,Compra Web,Remoto,5.0,5.0
+Cliente_193,5.0,Aceptable,2.0,Compra Web,,1.0,4.0
+Cliente_194,4.0,Caro,4.0,Compra Web,Presencial,0.0,1.0
+Cliente_195,0.0,,1.0,Compra Web,Presencial,3.0,5.0
+Cliente_196,2.0,Aceptable,2.0,Otros Canales,Telefónico,2.0,1.0
+Cliente_197,1.0,Caro,1.0,Compra Web,Telefónico,1.0,1.0
+Cliente_198,3.0,Aceptable,5.0,Compra en sitio,,2.0,3.0
+Cliente_199,2.0,Muy caro,4.0,Compra Web,,2.0,5.0
+Cliente_200,5.0,Aceptable,0.0,Compra Web,Remoto,4.0,5.0
+Cliente_201,0.0,Aceptable,0.0,Otros Canales,Presencial,4.0,3.0
+Cliente_202,3.0,Barato,2.0,Otros Canales,Remoto,4.0,4.0
+Cliente_203,0.0,Aceptable,3.0,Compra en sitio,Presencial,1.0,3.0
+Cliente_204,5.0,Aceptable,5.0,Compra en sitio,Telefónico,2.0,5.0
+Cliente_205,0.0,Muy caro,2.0,Otros Canales,Remoto,0.0,5.0
+Cliente_206,1.0,Barato,3.0,Otros Canales,Chatbot,3.0,4.0
+Cliente_207,3.0,Muy barato,1.0,Compra Web,Telefónico,4.0,3.0
+Cliente_208,3.0,Muy caro,5.0,Otros Canales,Remoto,4.0,0.0
+Cliente_209,5.0,Muy caro,1.0,Compra en sitio,Remoto,2.0,0.0
+Cliente_210,1.0,Muy barato,4.0,Compra Web,Chatbot,2.0,4.0
+Cliente_211,2.0,,5.0,Compra en sitio,Remoto,1.0,3.0
+Cliente_212,0.0,Caro,,Compra Web,Presencial,1.0,3.0
+Cliente_213,,Barato,4.0,Otros Canales,Chatbot,4.0,1.0
+Cliente_214,0.0,Caro,0.0,Compra en sitio,Telefónico,2.0,5.0
+Cliente_215,0.0,Muy barato,3.0,Compra Web,Telefónico,0.0,2.0
+Cliente_216,2.0,Rebacano,2.0,Compra Web,Presencial,3.0,4.0
+Cliente_217,0.0,Muy caro,0.0,Otros Canales,Telefónico,2.0,2.0
+Cliente_218,1.0,Barato,0.0,,Remoto,2.0,2.0
+Cliente_219,1.0,Muy caro,2.0,Otros Canales,Remoto,5.0,4.0
+Cliente_220,3.0,Muy caro,5.0,Compra en sitio,Presencial,1.0,3.0
+Cliente_221,5.0,Barato,0.0,Compra Web,Telefónico,3.0,4.0
+Cliente_222,4.0,Barato,3.0,Otros Canales,Telefónico,4.0,2.0
+Cliente_223,0.0,Muy barato,4.0,Compra en sitio,Presencial,2.0,5.0
+Cliente_224,0.0,Muy caro,0.0,Compra en sitio,Chatbot,4.0,5.0
+Cliente_225,2.0,Muy caro,3.0,Compra en sitio,Telefónico,2.0,5.0
+Cliente_226,,Muy barato,1.0,Otros Canales,Chatbot,4.0,3.0
+Cliente_227,1.0,Aceptable,3.0,Otros Canales,Telefónico,3.0,0.0
+Cliente_228,4.0,Aceptable,4.0,Compra Web,Telefónico,1.0,4.0
+Cliente_229,3.0,Aceptable,3.0,Compra Web,Telefónico,3.0,5.0
+Cliente_230,1.0,Muy barato,2.0,Otros Canales,Telefónico,5.0,4.0
+Cliente_231,5.0,Muy caro,4.0,Compra en sitio,Remoto,0.0,5.0
+Cliente_232,3.0,Muy barato,5.0,Compra en sitio,Chatbot,1.0,3.0
+Cliente_233,2.0,Muy barato,1.0,,Chatbot,3.0,0.0
+Cliente_234,2.0,Aceptable,2.0,Compra Web,Telefónico,5.0,0.0
+Cliente_235,0.0,Caro,5.0,Compra en sitio,Telefónico,0.0,5.0
+Cliente_236,5.0,Muy caro,3.0,Compra Web,Chatbot,5.0,3.0
+Cliente_237,4.0,Aceptable,4.0,Compra Web,Remoto,2.0,
+Cliente_238,3.0,Presio,1.0,Compra en sitio,Presencial,2.0,4.0
+Cliente_239,1.0,Caro,2.0,Compra en sitio,Presencial,4.0,4.0
+Cliente_240,5.0,Barato,5.0,Otros Canales,Chatbot,1.0,2.0
+Cliente_241,5.0,Muy caro,5.0,Otros Canales,Telefónico,2.0,3.0
+Cliente_242,2.0,Caro,1.0,Compra en sitio,Telefónico,5.0,2.0
+Cliente_243,0.0,Aceptable,3.0,Compra Web,Remoto,1.0,5.0
+Cliente_244,0.0,Barato,1.0,Compra Web,Presencial,,2.0
+Cliente_245,3.0,Muy caro,5.0,Compra Web,Remoto,4.0,0.0
+Cliente_246,2.0,Muy barato,0.0,Compra Web,Presencial,3.0,4.0
+Cliente_247,5.0,Aceptable,2.0,Compra Web,Chatbot,4.0,2.0
+Cliente_248,4.0,Caro,1.0,Otros Canales,Presencial,0.0,0.0
+Cliente_249,2.0,Caro,5.0,Compra en sitio,Remoto,2.0,3.0
+Cliente_250,3.0,Aceptable,3.0,Otros Canales,Remoto,0.0,2.0
+Cliente_251,3.0,Caro,5.0,Compra Web,Remoto,0.0,5.0
+Cliente_252,2.0,,3.0,Compra Web,Chatbot,5.0,5.0
+Cliente_253,3.0,Muy caro,1.0,Compra Web,,1.0,5.0
+Cliente_254,2.0,Barato,3.0,,Presencial,5.0,4.0
+Cliente_255,1.0,Caro,4.0,Compra en sitio,Remoto,2.0,2.0
+Cliente_256,2.0,,4.0,Compra Web,Presencial,0.0,3.0
+Cliente_257,2.0,Muy caro,4.0,Compra en sitio,Telefónico,3.0,2.0
+Cliente_258,3.0,Muy caro,0.0,Compra Web,Telefónico,0.0,4.0
+Cliente_259,3.0,Aceptable,1.0,Compra en sitio,Telefónico,3.0,0.0
+Cliente_260,0.0,Aceptable,5.0,Otros Canales,Presencial,5.0,4.0
+Cliente_261,0.0,,5.0,Compra Web,Chatbot,5.0,5.0
+Cliente_262,1.0,Muy caro,0.0,Compra en sitio,Chatbot,1.0,0.0
+Cliente_263,0.0,Muy barato,3.0,Otros Canales,Chatbot,0.0,5.0
+Cliente_264,2.0,Aceptable,,Compra Web,Chatbot,4.0,1.0
+Cliente_265,3.0,Aceptable,3.0,Compra Web,Telefónico,5.0,4.0
+Cliente_266,0.0,Muy caro,3.0,Compra Web,Telefónico,5.0,4.0
+Cliente_267,0.0,Barato,2.0,Compra en sitio,Remoto,1.0,3.0
+Cliente_268,1.0,Caro,5.0,Compra en sitio,Presencial,3.0,2.0
+Cliente_269,5.0,Aceptable,4.0,Otros Canales,Presencial,1.0,0.0
+Cliente_270,1.0,Aceptable,3.0,Compra en sitio,Chatbot,0.0,0.0
+Cliente_271,2.0,Barato,2.0,Compra en sitio,Telefónico,2.0,3.0
+Cliente_272,3.0,Barato,5.0,,Chatbot,2.0,3.0
+Cliente_273,1.0,Muy barato,4.0,Compra Web,Remoto,3.0,2.0
+Cliente_274,,Muy barato,3.0,Compra Web,Presencial,5.0,5.0
+Cliente_275,3.0,Caro,3.0,Compra Web,Presencial,3.0,
+Cliente_276,3.0,Caro,0.0,Compra Web,Chatbot,5.0,4.0
+Cliente_277,0.0,Muy caro,0.0,Compra Web,Remoto,5.0,5.0
+Cliente_278,1.0,Muy barato,5.0,Compra Web,Presencial,2.0,1.0
+Cliente_279,0.0,,4.0,Otros Canales,Remoto,3.0,2.0
+Cliente_280,5.0,Muy barato,3.0,Otros Canales,Remoto,1.0,3.0
+Cliente_281,3.0,Aceptable,5.0,Otros Canales,Chatbot,5.0,5.0
+Cliente_282,4.0,Barato,5.0,,Telefónico,4.0,2.0
+Cliente_283,4.0,Muy barato,1.0,Compra Web,Chatbot,4.0,0.0
+Cliente_284,2.0,Barato,0.0,Otros Canales,Telefónico,1.0,1.0
+Cliente_285,0.0,Caro,4.0,Compra Web,Remoto,4.0,4.0
+Cliente_286,0.0,Caro,3.0,Otros Canales,Telefónico,0.0,0.0
+Cliente_287,2.0,Muy caro,5.0,,Remoto,5.0,0.0
+Cliente_288,2.0,Muy barato,3.0,Otros Canales,Presencial,1.0,1.0
+Cliente_289,2.0,Barato,1.0,Otros Canales,Presencial,3.0,4.0
+Cliente_290,3.0,Aceptable,4.0,Compra Web,Presencial,5.0,3.0
+Cliente_291,5.0,Caro,5.0,Otros Canales,Chatbot,1.0,5.0
+Cliente_292,0.0,Caro,3.0,Compra en sitio,,2.0,4.0
+Cliente_293,3.0,Aceptable,0.0,Compra Web,Remoto,3.0,2.0
+Cliente_294,2.0,Barato,1.0,Compra Web,Presencial,2.0,0.0
+Cliente_295,0.0,Barato,4.0,Otros Canales,Chatbot,5.0,2.0
+Cliente_296,3.0,Muy barato,1.0,Compra Web,Presencial,3.0,3.0
+Cliente_297,5.0,Muy barato,0.0,Compra Web,Chatbot,4.0,2.0
+Cliente_298,3.0,Muy caro,4.0,Compra Web,Telefónico,1.0,4.0
+Cliente_299,5.0,Caro,1.0,Compra Web,Telefónico,5.0,2.0
+Cliente_300,2.0,Muy barato,2.0,Compra Web,Presencial,0.0,3.0
+Cliente_301,5.0,Barato,0.0,Compra Web,Remoto,3.0,3.0
+Cliente_302,0.0,Aceptable,0.0,,Chatbot,,3.0
+Cliente_303,2.0,Barato,0.0,,Chatbot,5.0,4.0
+Cliente_304,0.0,Caro,2.0,Compra en sitio,Telefónico,5.0,3.0
+Cliente_305,4.0,Barato,2.0,Compra Web,Telefónico,2.0,0.0
+Cliente_306,1.0,Muy caro,3.0,Compra Web,Remoto,4.0,3.0
+Cliente_307,5.0,Caro,5.0,Otros Canales,Remoto,2.0,2.0
+Cliente_308,1.0,Aceptable,1.0,Compra en sitio,Remoto,2.0,5.0
+Cliente_309,1.0,Muy caro,3.0,Otros Canales,Presencial,4.0,2.0
+Cliente_310,5.0,Caro,,Compra en sitio,Telefónico,0.0,5.0
+Cliente_311,2.0,Aceptable,5.0,Compra Web,Presencial,2.0,2.0
+Cliente_312,4.0,Muy caro,2.0,Otros Canales,Telefónico,2.0,4.0
+Cliente_313,0.0,Muy caro,5.0,Otros Canales,Telefónico,3.0,2.0
+Cliente_314,3.0,Caro,2.0,Compra Web,Chatbot,4.0,4.0
+Cliente_315,0.0,Muy barato,,Otros Canales,Telefónico,1.0,4.0
+Cliente_316,3.0,Muy caro,3.0,Compra en sitio,Telefónico,0.0,
+Cliente_317,0.0,Muy caro,4.0,Compra en sitio,Presencial,0.0,0.0
+Cliente_318,5.0,Aceptable,3.0,Compra en sitio,Telefónico,4.0,5.0
+Cliente_319,4.0,Barato,1.0,Compra en sitio,Presencial,5.0,3.0
+Cliente_320,3.0,Caro,3.0,,Remoto,5.0,3.0
+Cliente_321,2.0,Caro,0.0,Otros Canales,Telefónico,3.0,4.0
+Cliente_322,0.0,Muy barato,1.0,Compra en sitio,Telefónico,3.0,4.0
+Cliente_323,0.0,Muy barato,5.0,Compra Web,Presencial,4.0,5.0
+Cliente_324,,Caro,1.0,Otros Canales,Remoto,3.0,2.0
+Cliente_325,2.0,Muy barato,4.0,Otros Canales,Chatbot,0.0,2.0
+Cliente_326,2.0,Aceptable,2.0,Compra Web,Remoto,0.0,3.0
+Cliente_327,5.0,Caro,5.0,Compra Web,Presencial,1.0,1.0
+Cliente_328,5.0,Muy barato,1.0,Compra en sitio,Remoto,5.0,1.0
+Cliente_329,5.0,Caro,5.0,Otros Canales,Presencial,4.0,2.0
+Cliente_330,5.0,Barato,5.0,Otros Canales,Presencial,2.0,1.0
+Cliente_331,,Muy caro,5.0,Compra Web,Chatbot,5.0,2.0
+Cliente_332,5.0,Caro,2.0,Otros Canales,Telefónico,2.0,4.0
+Cliente_333,4.0,Muy caro,3.0,Compra en sitio,Presencial,1.0,3.0
+Cliente_334,2.0,Muy barato,5.0,,Presencial,1.0,0.0
+Cliente_335,5.0,Muy caro,0.0,Compra Web,Chatbot,3.0,3.0
+Cliente_336,,Caro,,Compra Web,Presencial,1.0,2.0
+Cliente_337,2.0,Barato,2.0,Compra en sitio,Telefónico,1.0,2.0
+Cliente_338,1.0,Muy barato,,Compra en sitio,Chatbot,2.0,3.0
+Cliente_339,4.0,Caro,2.0,Otros Canales,Telefónico,3.0,5.0
+Cliente_340,5.0,Muy barato,1.0,Otros Canales,Telefónico,1.0,2.0
+Cliente_341,0.0,Aceptable,2.0,,,5.0,1.0
+Cliente_342,3.0,,1.0,Compra en sitio,Presencial,1.0,1.0
+Cliente_343,0.0,Aceptable,5.0,Compra en sitio,Telefónico,3.0,2.0
+Cliente_344,4.0,Rebacano,3.0,Compra en sitio,Telefónico,4.0,2.0
+Cliente_345,3.0,Barato,1.0,Otros Canales,Telefónico,3.0,5.0
+Cliente_346,4.0,Muy barato,1.0,Compra en sitio,Telefónico,2.0,1.0
+Cliente_347,2.0,Muy caro,0.0,Compra Web,Chatbot,4.0,2.0
+Cliente_348,3.0,Muy barato,1.0,Compra Web,Chatbot,5.0,2.0
+Cliente_349,2.0,Caro,0.0,Otros Canales,Remoto,0.0,5.0
+Cliente_350,0.0,Muy barato,4.0,Otros Canales,Remoto,3.0,5.0
+Cliente_351,0.0,Muy caro,5.0,Compra en sitio,Telefónico,,3.0
+Cliente_352,3.0,Caro,,Otros Canales,Presencial,5.0,5.0
+Cliente_353,,Muy barato,3.0,Compra Web,Telefónico,4.0,0.0
+Cliente_354,5.0,Barato,5.0,Compra en sitio,Presencial,5.0,1.0
+Cliente_355,4.0,Caro,0.0,,Telefónico,3.0,3.0
+Cliente_356,5.0,Caro,5.0,Compra en sitio,Remoto,1.0,0.0
+Cliente_357,4.0,Barato,5.0,Otros Canales,Remoto,3.0,2.0
+Cliente_358,5.0,Aceptable,5.0,Compra en sitio,Presencial,0.0,2.0
+Cliente_359,2.0,Muy caro,4.0,Compra en sitio,Telefónico,3.0,3.0
+Cliente_360,3.0,Aceptable,3.0,Compra Web,Presencial,4.0,5.0
+Cliente_361,0.0,Muy barato,2.0,Compra Web,Remoto,4.0,2.0
+Cliente_362,4.0,,2.0,Compra en sitio,Telefónico,3.0,4.0
+Cliente_363,4.0,Aceptable,0.0,Otros Canales,Telefónico,4.0,3.0
+Cliente_364,0.0,Caro,5.0,Otros Canales,Presencial,1.0,0.0
+Cliente_365,5.0,Muy barato,0.0,Compra Web,Chatbot,5.0,3.0
+Cliente_366,4.0,Muy barato,4.0,Otros Canales,Presencial,3.0,1.0
+Cliente_367,2.0,Aceptable,4.0,Compra Web,Remoto,1.0,5.0
+Cliente_368,3.0,Aceptable,1.0,Otros Canales,Remoto,5.0,5.0
+Cliente_369,0.0,Barato,4.0,Compra en sitio,Remoto,5.0,3.0
+Cliente_370,3.0,,1.0,Compra Web,Remoto,1.0,2.0
+Cliente_371,4.0,Aceptable,,,Remoto,2.0,2.0
+Cliente_372,4.0,Aceptable,0.0,Compra en sitio,,3.0,4.0
+Cliente_373,0.0,Caro,3.0,Compra Web,Telefónico,5.0,4.0
+Cliente_374,2.0,Muy barato,4.0,Otros Canales,Presencial,,5.0
+Cliente_375,1.0,Muy caro,3.0,Otros Canales,,4.0,4.0
+Cliente_376,0.0,Caro,3.0,Compra Web,Remoto,5.0,0.0
+Cliente_377,1.0,Barato,3.0,Otros Canales,Presencial,1.0,4.0
+Cliente_378,5.0,Barato,4.0,Compra Web,Remoto,5.0,0.0
+Cliente_379,1.0,Aceptable,5.0,Compra en sitio,Chatbot,2.0,4.0
+Cliente_380,2.0,Aceptable,3.0,Compra Web,Chatbot,3.0,5.0
+Cliente_381,5.0,Barato,1.0,Compra en sitio,Telefónico,3.0,5.0
+Cliente_382,1.0,Aceptable,4.0,Otros Canales,,5.0,0.0
+Cliente_383,5.0,Muy caro,3.0,Compra en sitio,Chatbot,0.0,
+Cliente_384,1.0,Aceptable,5.0,Otros Canales,Telefónico,0.0,5.0
+Cliente_385,2.0,Muy barato,4.0,Compra Web,Presencial,,3.0
+Cliente_386,1.0,Aceptable,2.0,Otros Canales,Remoto,0.0,2.0
+Cliente_387,1.0,Caro,5.0,Compra Web,Remoto,1.0,0.0
+Cliente_388,1.0,Muy caro,1.0,,Presencial,4.0,5.0
+Cliente_389,0.0,Caro,3.0,Compra en sitio,Telefónico,1.0,1.0
+Cliente_390,0.0,Caro,2.0,Compra en sitio,Presencial,0.0,2.0
+Cliente_391,0.0,Muy barato,2.0,Compra en sitio,Chatbot,5.0,3.0
+Cliente_392,2.0,Muy caro,4.0,Compra en sitio,Telefónico,4.0,5.0
+Cliente_393,5.0,Muy caro,2.0,Otros Canales,Telefónico,0.0,0.0
+Cliente_394,4.0,Muy caro,1.0,Otros Canales,Telefónico,1.0,4.0
+Cliente_395,1.0,Muy caro,1.0,Otros Canales,Remoto,2.0,1.0
+Cliente_396,1.0,Muy caro,0.0,Compra Web,Presencial,3.0,3.0
+Cliente_397,2.0,Muy barato,1.0,Otros Canales,Telefónico,0.0,2.0
+Cliente_398,1.0,Aceptable,5.0,Otros Canales,Telefónico,1.0,0.0
+Cliente_399,0.0,Caro,2.0,Otros Canales,Telefónico,4.0,1.0
+Cliente_400,4.0,Muy caro,1.0,Compra en sitio,Presencial,0.0,0.0
+Cliente_401,3.0,Aceptable,4.0,Otros Canales,Remoto,0.0,5.0
+Cliente_402,1.0,Aceptable,0.0,Compra Web,Chatbot,3.0,4.0
+Cliente_403,0.0,Caro,2.0,Compra en sitio,Remoto,1.0,2.0
+Cliente_404,3.0,Muy barato,0.0,Compra Web,Telefónico,2.0,0.0
+Cliente_405,4.0,Barato,2.0,Otros Canales,Remoto,4.0,3.0
+Cliente_406,3.0,Barato,4.0,Compra en sitio,Remoto,1.0,5.0
+Cliente_407,0.0,Aceptable,0.0,Compra Web,Chatbot,4.0,5.0
+Cliente_408,5.0,Caro,3.0,,Presencial,,2.0
+Cliente_409,5.0,Barato,5.0,Compra Web,Presencial,3.0,5.0
+Cliente_410,3.0,Aceptable,5.0,Compra Web,Remoto,3.0,3.0
+Cliente_411,2.0,Muy barato,2.0,Compra Web,,5.0,0.0
+Cliente_412,3.0,Barato,3.0,Otros Canales,,2.0,2.0
+Cliente_413,1.0,Aceptable,0.0,Otros Canales,Presencial,3.0,5.0
+Cliente_414,1.0,Aceptable,3.0,Compra Web,Chatbot,0.0,5.0
+Cliente_415,5.0,Muy caro,3.0,Compra en sitio,Telefónico,2.0,3.0
+Cliente_416,2.0,Muy barato,0.0,Compra en sitio,Remoto,1.0,4.0
+Cliente_417,0.0,Muy caro,4.0,Otros Canales,Presencial,3.0,4.0
+Cliente_418,1.0,Caro,3.0,Otros Canales,,2.0,5.0
+Cliente_419,5.0,,3.0,Otros Canales,Remoto,0.0,0.0
+Cliente_420,4.0,Muy caro,,Otros Canales,Presencial,5.0,2.0
+Cliente_421,5.0,Barato,3.0,Otros Canales,Chatbot,4.0,5.0
+Cliente_422,,Aceptable,3.0,Compra en sitio,Remoto,4.0,1.0
+Cliente_423,1.0,Muy barato,3.0,Otros Canales,Chatbot,0.0,2.0
+Cliente_424,5.0,Muy caro,5.0,Compra Web,Presencial,0.0,4.0
+Cliente_425,0.0,Muy barato,1.0,Compra Web,Telefónico,4.0,5.0
+Cliente_426,3.0,Muy caro,4.0,Compra en sitio,Telefónico,5.0,3.0
+Cliente_427,1.0,Varata,3.0,Compra Web,Remoto,2.0,1.0
+Cliente_428,5.0,Muy caro,5.0,Compra en sitio,Presencial,4.0,5.0
+Cliente_429,5.0,Barato,4.0,Compra en sitio,Chatbot,0.0,0.0
+Cliente_430,2.0,Aceptable,2.0,Compra Web,Remoto,3.0,1.0
+Cliente_431,3.0,Caro,2.0,Otros Canales,Presencial,1.0,5.0
+Cliente_432,4.0,Muy caro,3.0,Compra Web,Presencial,5.0,0.0
+Cliente_433,0.0,Muy barato,5.0,Compra Web,,5.0,1.0
+Cliente_434,4.0,Caro,5.0,Compra en sitio,Remoto,3.0,0.0
+Cliente_435,3.0,Caro,4.0,Compra Web,Presencial,3.0,0.0
+Cliente_436,3.0,Muy caro,4.0,Compra en sitio,Presencial,0.0,1.0
+Cliente_437,3.0,Caro,5.0,Otros Canales,Presencial,4.0,1.0
+Cliente_438,4.0,Muy barato,4.0,,Chatbot,2.0,0.0
+Cliente_439,3.0,Caro,5.0,Otros Canales,Remoto,,4.0
+Cliente_440,5.0,Muy barato,1.0,Compra Web,Remoto,5.0,1.0
+Cliente_441,4.0,Muy caro,5.0,Compra en sitio,Remoto,3.0,5.0
+Cliente_442,3.0,Aceptable,2.0,Otros Canales,Remoto,4.0,2.0
+Cliente_443,5.0,Caro,4.0,Compra en sitio,Telefónico,5.0,3.0
+Cliente_444,2.0,Aceptable,5.0,Compra en sitio,,2.0,0.0
+Cliente_445,3.0,Muy barato,5.0,Otros Canales,Remoto,3.0,0.0
+Cliente_446,4.0,Caro,4.0,Otros Canales,Chatbot,2.0,3.0
+Cliente_447,1.0,Barato,1.0,Compra en sitio,Telefónico,4.0,4.0
+Cliente_448,3.0,Aceptable,1.0,Otros Canales,Presencial,5.0,3.0
+Cliente_449,1.0,Caro,,Compra en sitio,Telefónico,1.0,1.0
+Cliente_450,5.0,Aceptable,0.0,Compra en sitio,Presencial,,3.0
+Cliente_451,2.0,Caro,4.0,Otros Canales,Remoto,4.0,0.0
+Cliente_452,,Muy caro,4.0,Compra Web,Telefónico,5.0,3.0
+Cliente_453,2.0,Aceptable,1.0,Otros Canales,Chatbot,5.0,2.0
+Cliente_454,3.0,Barato,1.0,Compra Web,Telefónico,0.0,5.0
+Cliente_455,1.0,Barato,4.0,Compra en sitio,Telefónico,5.0,1.0
+Cliente_456,1.0,Muy barato,4.0,Compra en sitio,Telefónico,5.0,3.0
+Cliente_457,4.0,Caro,4.0,Compra Web,Remoto,2.0,0.0
+Cliente_458,1.0,Aceptable,1.0,Compra en sitio,Chatbot,1.0,5.0
+Cliente_459,4.0,Muy barato,4.0,Compra Web,Telefónico,2.0,1.0
+Cliente_460,5.0,Aceptable,,Compra Web,Chatbot,2.0,0.0
+Cliente_461,0.0,Caro,3.0,Compra en sitio,Remoto,3.0,4.0
+Cliente_462,3.0,Barato,0.0,Compra Web,Presencial,0.0,2.0
+Cliente_463,4.0,Muy caro,2.0,Otros Canales,Telefónico,2.0,4.0
+Cliente_464,0.0,Barato,0.0,Otros Canales,Chatbot,4.0,2.0
+Cliente_465,1.0,Muy barato,3.0,Compra en sitio,Chatbot,4.0,3.0
+Cliente_466,1.0,Muy caro,2.0,Compra en sitio,Remoto,5.0,1.0
+Cliente_467,0.0,Muy barato,4.0,Compra Web,,3.0,3.0
+Cliente_468,1.0,Caro,3.0,Compra Web,Presencial,0.0,2.0
+Cliente_469,5.0,Muy caro,4.0,Compra Web,Chatbot,0.0,2.0
+Cliente_470,5.0,Muy barato,1.0,Compra Web,Telefónico,5.0,2.0
+Cliente_471,0.0,Caro,5.0,Otros Canales,Presencial,4.0,5.0
+Cliente_472,4.0,Barato,3.0,Otros Canales,,1.0,0.0
+Cliente_473,4.0,Caro,1.0,Compra en sitio,Chatbot,3.0,
+Cliente_474,0.0,Aceptable,3.0,Compra Web,Presencial,5.0,3.0
+Cliente_475,4.0,Caro,3.0,Compra Web,Presencial,3.0,3.0
+Cliente_476,4.0,Caro,1.0,Compra en sitio,Remoto,4.0,4.0
+Cliente_477,5.0,Aceptable,2.0,Compra Web,Telefónico,4.0,2.0
+Cliente_478,4.0,Muy barato,0.0,Compra Web,Telefónico,,2.0
+Cliente_479,2.0,Muy barato,4.0,Compra Web,Remoto,1.0,2.0
+Cliente_480,3.0,Caro,3.0,Compra Web,Chatbot,0.0,3.0
+Cliente_481,1.0,Aceptable,4.0,Compra Web,Presencial,3.0,4.0
+Cliente_482,2.0,Aceptable,5.0,Compra en sitio,Presencial,3.0,0.0
+Cliente_483,4.0,,1.0,Compra Web,Presencial,,5.0
+Cliente_484,5.0,Muy barato,4.0,Compra en sitio,Chatbot,0.0,1.0
+Cliente_485,0.0,Muy caro,1.0,Compra Web,Presencial,5.0,0.0
+Cliente_486,4.0,Muy barato,4.0,Otros Canales,Presencial,3.0,3.0
+Cliente_487,,Muy barato,0.0,Otros Canales,Remoto,0.0,5.0
+Cliente_488,3.0,Barato,0.0,Otros Canales,Chatbot,0.0,5.0
+Cliente_489,4.0,Muy caro,0.0,Otros Canales,Telefónico,4.0,5.0
+Cliente_490,0.0,Barato,,Compra en sitio,Remoto,0.0,2.0
+Cliente_491,5.0,Muy caro,0.0,Compra en sitio,Remoto,,1.0
+Cliente_492,5.0,Caro,0.0,Compra Web,Telefónico,1.0,3.0
+Cliente_493,5.0,Muy caro,1.0,Otros Canales,Remoto,2.0,3.0
+Cliente_494,3.0,Barato,3.0,Compra en sitio,Chatbot,4.0,5.0
+Cliente_495,4.0,Muy barato,4.0,Compra Web,Presencial,5.0,3.0
+Cliente_496,3.0,,0.0,Compra Web,Chatbot,2.0,1.0
+Cliente_497,1.0,Muy caro,1.0,Compra en sitio,Telefónico,1.0,1.0
+Cliente_498,1.0,Aceptable,1.0,Otros Canales,,,4.0
+Cliente_499,4.0,Muy barato,1.0,Compra Web,Remoto,4.0,4.0
+Cliente_500,3.0,Rebacano,3.0,Otros Canales,Chatbot,4.0,0.0
+Cliente_501,0.0,Barato,4.0,Otros Canales,Chatbot,0.0,1.0
+Cliente_502,5.0,Caro,3.0,Otros Canales,Telefónico,3.0,1.0
+Cliente_503,5.0,Muy barato,2.0,Compra Web,Chatbot,0.0,1.0
+Cliente_504,4.0,Muy caro,1.0,Otros Canales,Telefónico,4.0,4.0
+Cliente_505,1.0,Muy caro,2.0,Compra Web,Chatbot,1.0,5.0
+Cliente_506,1.0,,5.0,Otros Canales,Chatbot,5.0,5.0
+Cliente_507,5.0,Muy caro,0.0,Compra Web,Chatbot,1.0,3.0
+Cliente_508,4.0,Muy caro,0.0,Otros Canales,Telefónico,0.0,5.0
+Cliente_509,3.0,Muy caro,3.0,Compra en sitio,Remoto,5.0,2.0
+Cliente_510,1.0,Barato,4.0,Otros Canales,Chatbot,4.0,4.0
+Cliente_511,3.0,Barato,2.0,Otros Canales,Telefónico,1.0,1.0
+Cliente_512,1.0,Aceptable,4.0,Compra Web,Telefónico,4.0,5.0
+Cliente_513,1.0,Caro,3.0,Compra Web,Chatbot,5.0,4.0
+Cliente_514,2.0,Muy barato,0.0,Otros Canales,Chatbot,5.0,5.0
+Cliente_515,1.0,Muy barato,4.0,Compra en sitio,Remoto,1.0,0.0
+Cliente_516,0.0,Muy barato,4.0,Compra en sitio,Telefónico,4.0,
+Cliente_517,4.0,Aceptable,0.0,Compra Web,Telefónico,2.0,0.0
+Cliente_518,4.0,Barato,,Compra en sitio,Presencial,4.0,1.0
+Cliente_519,3.0,Aceptable,0.0,Otros Canales,Telefónico,5.0,4.0
+Cliente_520,1.0,Muy barato,4.0,Compra Web,Remoto,4.0,3.0
+Cliente_521,0.0,Caro,2.0,Otros Canales,Presencial,0.0,5.0
+Cliente_522,3.0,Muy caro,2.0,Compra Web,Presencial,2.0,5.0
+Cliente_523,2.0,Barato,0.0,Compra Web,Presencial,3.0,2.0
+Cliente_524,3.0,Barato,4.0,Compra Web,Chatbot,,0.0
+Cliente_525,3.0,Aceptable,3.0,Compra Web,Chatbot,3.0,5.0
+Cliente_526,1.0,Barato,4.0,Compra en sitio,Telefónico,1.0,4.0
+Cliente_527,2.0,Muy barato,1.0,Otros Canales,Presencial,3.0,3.0
+Cliente_528,3.0,Muy barato,5.0,Otros Canales,Remoto,4.0,4.0
+Cliente_529,,Aceptable,3.0,Otros Canales,,3.0,0.0
+Cliente_530,0.0,Muy barato,2.0,Compra Web,Remoto,5.0,2.0
+Cliente_531,4.0,Caro,3.0,Compra en sitio,Remoto,0.0,5.0
+Cliente_532,2.0,Aceptable,2.0,Otros Canales,Chatbot,0.0,4.0
+Cliente_533,2.0,Caro,2.0,Compra en sitio,Chatbot,3.0,1.0
+Cliente_534,4.0,Muy caro,3.0,Compra Web,Chatbot,0.0,3.0
+Cliente_535,3.0,Caro,2.0,Otros Canales,Chatbot,5.0,4.0
+Cliente_536,2.0,Muy caro,2.0,Compra en sitio,Presencial,0.0,3.0
+Cliente_537,0.0,Muy caro,1.0,Compra Web,Presencial,3.0,5.0
+Cliente_538,0.0,Caro,4.0,Compra en sitio,Presencial,2.0,1.0
+Cliente_539,1.0,Aceptable,4.0,Otros Canales,Presencial,2.0,2.0
+Cliente_540,2.0,Muy barato,5.0,Otros Canales,Telefónico,1.0,2.0
+Cliente_541,3.0,Muy barato,5.0,,Presencial,0.0,1.0
+Cliente_542,4.0,Muy caro,1.0,Compra Web,Chatbot,3.0,3.0
+Cliente_543,4.0,Muy caro,5.0,Compra Web,Remoto,0.0,5.0
+Cliente_544,3.0,Aceptable,3.0,Compra en sitio,Presencial,4.0,4.0
+Cliente_545,5.0,Barato,0.0,Compra en sitio,Telefónico,,1.0
+Cliente_546,1.0,Caro,,Compra en sitio,Chatbot,0.0,0.0
+Cliente_547,4.0,Muy caro,0.0,Compra Web,Remoto,0.0,3.0
+Cliente_548,2.0,Muy barato,1.0,Otros Canales,Remoto,2.0,2.0
+Cliente_549,1.0,Aceptable,1.0,Otros Canales,Presencial,5.0,1.0
+Cliente_550,2.0,Caro,2.0,,Remoto,3.0,2.0
+Cliente_551,0.0,Aceptable,0.0,Compra en sitio,Presencial,0.0,3.0
+Cliente_552,1.0,Caro,3.0,Otros Canales,Presencial,2.0,2.0
+Cliente_553,4.0,Caro,5.0,Otros Canales,Chatbot,1.0,1.0
+Cliente_554,1.0,Muy caro,3.0,Compra en sitio,Chatbot,5.0,3.0
+Cliente_555,1.0,Aceptable,5.0,Compra en sitio,Telefónico,2.0,0.0
+Cliente_556,1.0,Aceptable,0.0,Otros Canales,Chatbot,2.0,1.0
+Cliente_557,5.0,Muy barato,0.0,Compra Web,Chatbot,2.0,4.0
+Cliente_558,1.0,Muy barato,0.0,Compra en sitio,Presencial,0.0,5.0
+Cliente_559,2.0,Muy caro,1.0,Otros Canales,Chatbot,0.0,1.0
+Cliente_560,0.0,Muy caro,5.0,Otros Canales,Presencial,1.0,3.0
+Cliente_561,3.0,Barato,1.0,Otros Canales,Presencial,4.0,5.0
+Cliente_562,1.0,Muy barato,1.0,Otros Canales,Chatbot,4.0,1.0
+Cliente_563,4.0,Caro,4.0,Compra Web,Telefónico,4.0,0.0
+Cliente_564,1.0,Aceptable,3.0,Otros Canales,Telefónico,5.0,
+Cliente_565,4.0,Muy caro,3.0,Compra en sitio,Remoto,5.0,4.0
+Cliente_566,2.0,Aceptable,2.0,Compra Web,Remoto,1.0,2.0
+Cliente_567,4.0,,1.0,Otros Canales,Chatbot,5.0,5.0
+Cliente_568,3.0,Barato,5.0,Compra Web,Telefónico,4.0,3.0
+Cliente_569,0.0,Muy barato,4.0,Compra en sitio,Presencial,4.0,3.0
+Cliente_570,4.0,Muy caro,4.0,Otros Canales,Remoto,2.0,2.0
+Cliente_571,4.0,Aceptable,3.0,Compra en sitio,Presencial,5.0,0.0
+Cliente_572,0.0,Muy caro,1.0,Otros Canales,Remoto,0.0,0.0
+Cliente_573,3.0,Caro,2.0,Otros Canales,Chatbot,0.0,1.0
+Cliente_574,1.0,Barato,,Otros Canales,Telefónico,,4.0
+Cliente_575,4.0,Caro,0.0,Otros Canales,Remoto,2.0,5.0
+Cliente_576,0.0,Muy caro,1.0,Otros Canales,Telefónico,2.0,4.0
+Cliente_577,2.0,Muy caro,0.0,Compra Web,Presencial,0.0,4.0
+Cliente_578,0.0,Muy barato,0.0,Otros Canales,Chatbot,4.0,1.0
+Cliente_579,2.0,Aceptable,2.0,Otros Canales,Telefónico,2.0,4.0
+Cliente_580,3.0,,5.0,Compra Web,Chatbot,1.0,2.0
+Cliente_581,1.0,Caro,3.0,Compra Web,Telefónico,2.0,1.0
+Cliente_582,0.0,Barato,1.0,Compra Web,,3.0,2.0
+Cliente_583,5.0,Aceptable,0.0,Compra Web,Presencial,2.0,1.0
+Cliente_584,4.0,Muy barato,1.0,Compra Web,Chatbot,0.0,
+Cliente_585,3.0,Caro,5.0,Compra Web,Presencial,5.0,2.0
+Cliente_586,0.0,Caro,3.0,Otros Canales,Remoto,2.0,2.0
+Cliente_587,4.0,Muy barato,5.0,Otros Canales,Telefónico,5.0,2.0
+Cliente_588,0.0,Barato,3.0,Compra en sitio,Presencial,3.0,1.0
+Cliente_589,2.0,Presio,4.0,Otros Canales,Remoto,1.0,3.0
+Cliente_590,0.0,Barato,3.0,Otros Canales,Chatbot,5.0,4.0
+Cliente_591,5.0,Muy barato,2.0,Compra Web,Remoto,4.0,2.0
+Cliente_592,0.0,Muy barato,5.0,Compra Web,Chatbot,2.0,5.0
+Cliente_593,0.0,,0.0,Otros Canales,Chatbot,3.0,3.0
+Cliente_594,5.0,Caro,4.0,Compra en sitio,Telefónico,3.0,5.0
+Cliente_595,3.0,Muy barato,2.0,Compra Web,,,4.0
+Cliente_596,0.0,Muy barato,1.0,Otros Canales,Remoto,1.0,4.0
+Cliente_597,5.0,Aceptable,5.0,Otros Canales,Telefónico,0.0,2.0
+Cliente_598,4.0,Caro,0.0,Compra en sitio,Telefónico,2.0,2.0
+Cliente_599,2.0,Aceptable,3.0,Compra en sitio,Telefónico,3.0,1.0
+Cliente_600,2.0,Caro,0.0,Compra Web,Remoto,1.0,3.0
+Cliente_601,0.0,Aceptable,1.0,Compra en sitio,Presencial,4.0,3.0
+Cliente_602,3.0,Muy barato,4.0,Otros Canales,Telefónico,3.0,2.0
+Cliente_603,3.0,Muy barato,4.0,Otros Canales,Telefónico,1.0,4.0
+Cliente_604,4.0,Muy caro,5.0,Compra en sitio,Remoto,0.0,2.0
+Cliente_605,0.0,Aceptable,4.0,Compra en sitio,Presencial,0.0,4.0
+Cliente_606,2.0,Barato,5.0,Compra en sitio,Telefónico,3.0,4.0
+Cliente_607,3.0,Muy caro,5.0,Compra en sitio,Chatbot,3.0,2.0
+Cliente_608,0.0,Aceptable,5.0,Compra Web,Remoto,5.0,0.0
+Cliente_609,3.0,Aceptable,,Compra en sitio,Telefónico,2.0,3.0
+Cliente_610,5.0,Muy caro,2.0,Compra Web,Telefónico,1.0,5.0
+Cliente_611,3.0,Muy barato,5.0,Otros Canales,Chatbot,3.0,4.0
+Cliente_612,2.0,Aceptable,5.0,Compra en sitio,Chatbot,2.0,4.0
+Cliente_613,1.0,Muy barato,2.0,Compra Web,Remoto,5.0,0.0
+Cliente_614,4.0,Muy caro,0.0,Compra en sitio,Remoto,2.0,5.0
+Cliente_615,4.0,Muy barato,5.0,,,3.0,1.0
+Cliente_616,2.0,Caro,3.0,Otros Canales,Remoto,0.0,0.0
+Cliente_617,3.0,Barato,4.0,Otros Canales,Chatbot,1.0,5.0
+Cliente_618,0.0,Aceptable,4.0,Compra en sitio,Telefónico,1.0,0.0
+Cliente_619,3.0,Barato,1.0,Compra en sitio,Chatbot,0.0,4.0
+Cliente_620,2.0,Muy barato,1.0,Compra Web,Chatbot,3.0,3.0
+Cliente_621,4.0,Aceptable,4.0,Otros Canales,Presencial,1.0,0.0
+Cliente_622,3.0,Muy barato,4.0,Compra en sitio,Chatbot,3.0,1.0
+Cliente_623,,Caro,3.0,Otros Canales,Chatbot,5.0,2.0
+Cliente_624,0.0,Muy caro,2.0,Otros Canales,Presencial,3.0,5.0
+Cliente_625,4.0,Aceptable,1.0,Compra Web,Remoto,2.0,0.0
+Cliente_626,4.0,Caro,,Compra Web,Presencial,0.0,0.0
+Cliente_627,1.0,Caro,3.0,Compra Web,Telefónico,3.0,1.0
+Cliente_628,1.0,Aceptable,4.0,Compra Web,Presencial,5.0,3.0
+Cliente_629,5.0,Muy barato,5.0,Otros Canales,Telefónico,4.0,0.0
+Cliente_630,1.0,Caro,2.0,Compra Web,Remoto,0.0,0.0
+Cliente_631,4.0,,4.0,Compra Web,Presencial,1.0,3.0
+Cliente_632,2.0,Caro,4.0,Compra Web,Presencial,2.0,1.0
+Cliente_633,4.0,Muy barato,0.0,Compra Web,Remoto,1.0,5.0
+Cliente_634,2.0,Muy barato,2.0,Otros Canales,Telefónico,5.0,5.0
+Cliente_635,2.0,Barato,5.0,Compra Web,Presencial,5.0,0.0
+Cliente_636,1.0,Rebacano,2.0,Otros Canales,Telefónico,1.0,3.0
+Cliente_637,3.0,Muy barato,4.0,Compra en sitio,Presencial,0.0,0.0
+Cliente_638,0.0,Aceptable,5.0,Otros Canales,Chatbot,1.0,2.0
+Cliente_639,1.0,Rebacano,3.0,Otros Canales,Presencial,3.0,5.0
+Cliente_640,1.0,Muy caro,0.0,Compra Web,Remoto,1.0,4.0
+Cliente_641,3.0,Muy caro,4.0,Compra en sitio,Remoto,2.0,2.0
+Cliente_642,0.0,Caro,1.0,Compra en sitio,Telefónico,2.0,0.0
+Cliente_643,4.0,Barato,1.0,Compra en sitio,Presencial,4.0,1.0
+Cliente_644,5.0,Muy barato,0.0,Compra en sitio,Telefónico,2.0,
+Cliente_645,5.0,Aceptable,3.0,Otros Canales,Telefónico,1.0,4.0
+Cliente_646,4.0,Aceptable,4.0,Compra en sitio,Chatbot,2.0,2.0
+Cliente_647,1.0,Caro,2.0,Otros Canales,Chatbot,,5.0
+Cliente_648,0.0,,0.0,Otros Canales,Remoto,2.0,3.0
+Cliente_649,1.0,Caro,3.0,Otros Canales,Telefónico,3.0,1.0
+Cliente_650,2.0,Barato,2.0,Compra en sitio,Remoto,0.0,2.0
+Cliente_651,1.0,Barato,1.0,Compra Web,Presencial,4.0,3.0
+Cliente_652,1.0,Muy barato,1.0,Compra Web,Telefónico,,0.0
+Cliente_653,4.0,Muy barato,2.0,Compra en sitio,Telefónico,1.0,3.0
+Cliente_654,4.0,Barato,0.0,Compra Web,Presencial,1.0,2.0
+Cliente_655,4.0,Barato,1.0,Compra Web,Presencial,1.0,
+Cliente_656,5.0,Barato,4.0,Otros Canales,Remoto,3.0,0.0
+Cliente_657,2.0,Caro,,Otros Canales,Remoto,3.0,3.0
+Cliente_658,4.0,Barato,2.0,Compra en sitio,Presencial,3.0,3.0
+Cliente_659,0.0,Aceptable,2.0,Compra en sitio,Remoto,0.0,0.0
+Cliente_660,5.0,Muy caro,1.0,Compra Web,Presencial,5.0,
+Cliente_661,3.0,Barato,0.0,Otros Canales,Telefónico,0.0,5.0
+Cliente_662,0.0,Muy caro,4.0,Compra en sitio,Telefónico,1.0,0.0
+Cliente_663,0.0,Caro,0.0,Compra en sitio,Chatbot,5.0,1.0
+Cliente_664,4.0,Muy caro,3.0,Compra en sitio,Telefónico,2.0,2.0
+Cliente_665,3.0,Caro,3.0,Compra en sitio,Presencial,1.0,1.0
+Cliente_666,3.0,Aceptable,5.0,Compra en sitio,Remoto,4.0,5.0
+Cliente_667,5.0,Caro,1.0,Compra en sitio,Chatbot,0.0,5.0
+Cliente_668,3.0,Caro,1.0,,Remoto,3.0,4.0
+Cliente_669,2.0,Muy barato,,Otros Canales,Presencial,0.0,
+Cliente_670,4.0,Barato,5.0,Otros Canales,Telefónico,3.0,4.0
+Cliente_671,3.0,Barato,3.0,Compra en sitio,Chatbot,5.0,0.0
+Cliente_672,5.0,Aceptable,0.0,Otros Canales,Presencial,4.0,3.0
+Cliente_673,2.0,Aceptable,5.0,Otros Canales,Chatbot,5.0,5.0
+Cliente_674,1.0,Barato,5.0,Otros Canales,Chatbot,4.0,1.0
+Cliente_675,1.0,Muy barato,0.0,Compra en sitio,Telefónico,0.0,1.0
+Cliente_676,,Barato,1.0,Compra en sitio,Presencial,3.0,1.0
+Cliente_677,5.0,Muy barato,4.0,,Remoto,5.0,1.0
+Cliente_678,2.0,Aceptable,0.0,Otros Canales,Chatbot,4.0,4.0
+Cliente_679,4.0,,3.0,Compra en sitio,Chatbot,1.0,1.0
+Cliente_680,4.0,Aceptable,2.0,Compra Web,Remoto,1.0,3.0
+Cliente_681,1.0,Aceptable,2.0,Otros Canales,Presencial,,4.0
+Cliente_682,3.0,Caro,5.0,Compra Web,Chatbot,3.0,1.0
+Cliente_683,5.0,Caro,2.0,Otros Canales,Chatbot,5.0,0.0
+Cliente_684,1.0,Caro,4.0,Compra Web,Chatbot,0.0,2.0
+Cliente_685,3.0,Caro,1.0,Compra Web,Presencial,4.0,2.0
+Cliente_686,3.0,Muy barato,3.0,Compra Web,Presencial,0.0,2.0
+Cliente_687,4.0,Barato,4.0,Compra en sitio,Remoto,1.0,4.0
+Cliente_688,0.0,Muy caro,3.0,Compra Web,Presencial,4.0,1.0
+Cliente_689,0.0,Aceptable,3.0,,Presencial,5.0,
+Cliente_690,2.0,Muy barato,1.0,Compra Web,Telefónico,0.0,5.0
+Cliente_691,4.0,Muy caro,5.0,Otros Canales,Remoto,2.0,5.0
+Cliente_692,3.0,,2.0,Compra Web,Chatbot,3.0,4.0
+Cliente_693,5.0,Muy barato,1.0,,Presencial,3.0,3.0
+Cliente_694,0.0,Aceptable,4.0,Compra Web,Chatbot,2.0,0.0
+Cliente_695,3.0,Barato,5.0,Compra Web,Chatbot,1.0,0.0
+Cliente_696,,Caro,4.0,Compra en sitio,Telefónico,4.0,
+Cliente_697,0.0,Barato,5.0,Otros Canales,Presencial,3.0,2.0
+Cliente_698,0.0,Aceptable,4.0,Compra Web,Remoto,2.0,5.0
+Cliente_699,5.0,Aceptable,1.0,Otros Canales,Presencial,5.0,5.0
+Cliente_700,4.0,Aceptable,5.0,Otros Canales,,2.0,2.0
+Cliente_701,5.0,Muy caro,,Compra en sitio,Remoto,1.0,1.0
+Cliente_702,1.0,,,Compra en sitio,Presencial,1.0,3.0
+Cliente_703,3.0,Barato,3.0,Compra en sitio,Chatbot,0.0,3.0
+Cliente_704,4.0,Muy barato,0.0,Compra en sitio,Chatbot,3.0,3.0
+Cliente_705,4.0,Muy barato,4.0,Compra en sitio,Telefónico,0.0,3.0
+Cliente_706,4.0,Muy barato,3.0,Compra en sitio,Telefónico,2.0,2.0
+Cliente_707,4.0,Aceptable,0.0,Compra en sitio,Telefónico,4.0,0.0
+Cliente_708,5.0,Barato,3.0,Compra en sitio,Chatbot,4.0,2.0
+Cliente_709,4.0,Aceptable,4.0,Compra Web,Presencial,1.0,3.0
+Cliente_710,2.0,Muy caro,5.0,Otros Canales,Telefónico,,2.0
+Cliente_711,3.0,Muy barato,2.0,Compra en sitio,Presencial,4.0,3.0
+Cliente_712,4.0,Aceptable,4.0,Compra en sitio,Telefónico,4.0,4.0
+Cliente_713,3.0,Aceptable,1.0,Otros Canales,Remoto,,5.0
+Cliente_714,2.0,Muy caro,3.0,Compra Web,Remoto,4.0,0.0
+Cliente_715,2.0,Caro,3.0,Otros Canales,Telefónico,5.0,4.0
+Cliente_716,3.0,Barato,5.0,Otros Canales,Chatbot,4.0,1.0
+Cliente_717,0.0,Caro,1.0,Compra en sitio,Telefónico,4.0,2.0
+Cliente_718,1.0,Muy barato,5.0,Otros Canales,Telefónico,0.0,1.0
+Cliente_719,0.0,Aceptable,1.0,Otros Canales,Chatbot,2.0,2.0
+Cliente_720,,,2.0,Compra en sitio,Remoto,1.0,5.0
+Cliente_721,5.0,Muy caro,3.0,Compra en sitio,Presencial,0.0,4.0
+Cliente_722,0.0,Barato,3.0,,Telefónico,3.0,
+Cliente_723,4.0,Caro,2.0,Compra en sitio,Chatbot,2.0,3.0
+Cliente_724,5.0,Barato,0.0,Otros Canales,Telefónico,5.0,5.0
+Cliente_725,5.0,Aceptable,5.0,Otros Canales,Chatbot,2.0,5.0
+Cliente_726,2.0,Rebacano,2.0,Compra Web,Presencial,3.0,3.0
+Cliente_727,0.0,Muy caro,5.0,Compra Web,Presencial,3.0,2.0
+Cliente_728,2.0,Muy caro,4.0,Otros Canales,Remoto,3.0,3.0
+Cliente_729,3.0,,3.0,Compra Web,Chatbot,1.0,4.0
+Cliente_730,1.0,Muy barato,5.0,Otros Canales,,4.0,5.0
+Cliente_731,5.0,Aceptable,1.0,Compra Web,Remoto,2.0,3.0
+Cliente_732,3.0,Caro,,Compra en sitio,Remoto,4.0,5.0
+Cliente_733,3.0,Barato,4.0,Compra Web,Chatbot,4.0,4.0
+Cliente_734,4.0,Aceptable,3.0,Compra en sitio,Remoto,5.0,1.0
+Cliente_735,1.0,Muy barato,2.0,Compra en sitio,Presencial,3.0,4.0
+Cliente_736,3.0,Barato,4.0,Compra en sitio,Telefónico,1.0,0.0
+Cliente_737,3.0,Muy barato,3.0,Compra en sitio,Presencial,5.0,0.0
+Cliente_738,1.0,Barato,5.0,Compra Web,Remoto,0.0,0.0
+Cliente_739,1.0,Caro,0.0,Otros Canales,Chatbot,1.0,5.0
+Cliente_740,3.0,Aceptable,0.0,Compra en sitio,Chatbot,4.0,2.0
+Cliente_741,1.0,Barato,1.0,Compra Web,Presencial,1.0,2.0
+Cliente_742,3.0,Muy caro,3.0,Compra en sitio,Chatbot,3.0,2.0
+Cliente_743,3.0,Muy caro,0.0,Compra Web,Remoto,0.0,5.0
+Cliente_744,4.0,Barato,2.0,Compra Web,Presencial,3.0,4.0
+Cliente_745,0.0,Barato,3.0,Compra Web,Chatbot,0.0,2.0
+Cliente_746,,,2.0,Otros Canales,Telefónico,,1.0
+Cliente_747,2.0,Muy caro,2.0,Compra Web,Telefónico,4.0,0.0
+Cliente_748,5.0,Muy caro,0.0,Compra Web,Remoto,0.0,4.0
+Cliente_749,0.0,Barato,3.0,Otros Canales,Chatbot,0.0,0.0
+Cliente_750,0.0,Muy barato,5.0,Otros Canales,Remoto,0.0,2.0
+Cliente_751,0.0,Muy barato,4.0,Compra Web,Presencial,1.0,4.0
+Cliente_752,4.0,Caro,0.0,Otros Canales,Telefónico,5.0,3.0
+Cliente_753,3.0,Aceptable,0.0,Compra en sitio,Presencial,1.0,1.0
+Cliente_754,4.0,Muy barato,5.0,Compra en sitio,Chatbot,4.0,2.0
+Cliente_755,3.0,Muy caro,3.0,Otros Canales,Remoto,,2.0
+Cliente_756,4.0,Muy barato,3.0,Otros Canales,Remoto,5.0,1.0
+Cliente_757,4.0,Caro,2.0,Compra Web,Remoto,5.0,1.0
+Cliente_758,5.0,Caro,5.0,Otros Canales,Presencial,2.0,3.0
+Cliente_759,2.0,Aceptable,5.0,Compra Web,Telefónico,4.0,2.0
+Cliente_760,4.0,Muy barato,3.0,Compra en sitio,Presencial,5.0,5.0
+Cliente_761,5.0,Muy caro,2.0,Otros Canales,Presencial,0.0,2.0
+Cliente_762,1.0,Muy caro,0.0,Compra Web,,0.0,0.0
+Cliente_763,2.0,Barato,1.0,Compra Web,Chatbot,5.0,4.0
+Cliente_764,4.0,Muy caro,4.0,Compra en sitio,Chatbot,1.0,4.0
+Cliente_765,0.0,Aceptable,0.0,Otros Canales,Telefónico,4.0,0.0
+Cliente_766,1.0,Aceptable,3.0,Compra en sitio,Telefónico,0.0,4.0
+Cliente_767,1.0,Muy caro,4.0,Compra Web,Chatbot,5.0,1.0
+Cliente_768,5.0,Muy caro,1.0,Compra Web,Chatbot,0.0,4.0
+Cliente_769,1.0,Barato,1.0,Otros Canales,Telefónico,5.0,4.0
+Cliente_770,2.0,Muy caro,2.0,Compra Web,Remoto,4.0,0.0
+Cliente_771,4.0,Barato,4.0,Otros Canales,Telefónico,5.0,3.0
+Cliente_772,4.0,Barato,2.0,Compra en sitio,Telefónico,2.0,4.0
+Cliente_773,0.0,Muy caro,0.0,Otros Canales,Telefónico,5.0,5.0
+Cliente_774,5.0,Caro,5.0,Otros Canales,Chatbot,5.0,4.0
+Cliente_775,0.0,Caro,5.0,Compra Web,Remoto,4.0,3.0
+Cliente_776,1.0,Barato,5.0,Compra Web,Telefónico,5.0,0.0
+Cliente_777,0.0,Muy caro,4.0,Otros Canales,Chatbot,4.0,3.0
+Cliente_778,2.0,Caro,5.0,Compra Web,Presencial,2.0,0.0
+Cliente_779,4.0,Muy caro,0.0,Compra Web,Presencial,4.0,1.0
+Cliente_780,1.0,Muy caro,2.0,Compra Web,Telefónico,0.0,0.0
+Cliente_781,0.0,Muy caro,,Otros Canales,Presencial,4.0,1.0
+Cliente_782,5.0,Muy barato,2.0,Compra Web,Remoto,2.0,1.0
+Cliente_783,2.0,Muy caro,4.0,Otros Canales,Presencial,3.0,0.0
+Cliente_784,2.0,Muy barato,2.0,Compra Web,Presencial,5.0,5.0
+Cliente_785,0.0,Barato,1.0,Compra en sitio,Remoto,4.0,2.0
+Cliente_786,4.0,,2.0,Compra Web,,5.0,0.0
+Cliente_787,0.0,Caro,5.0,Compra Web,Telefónico,1.0,4.0
+Cliente_788,1.0,Caro,1.0,Otros Canales,Remoto,0.0,5.0
+Cliente_789,0.0,Caro,2.0,Otros Canales,Remoto,0.0,5.0
+Cliente_790,2.0,Caro,4.0,Compra Web,Remoto,1.0,4.0
+Cliente_791,0.0,Caro,4.0,Compra en sitio,Presencial,1.0,2.0
+Cliente_792,4.0,Caro,4.0,Compra Web,Remoto,4.0,5.0
+Cliente_793,5.0,Barato,3.0,Compra Web,Chatbot,1.0,1.0
+Cliente_794,3.0,Muy caro,0.0,Compra en sitio,Presencial,3.0,
+Cliente_795,0.0,Aceptable,4.0,Otros Canales,Telefónico,5.0,4.0
+Cliente_796,4.0,Muy barato,1.0,Compra Web,Telefónico,5.0,2.0
+Cliente_797,4.0,Aceptable,4.0,Otros Canales,Telefónico,2.0,0.0
+Cliente_798,5.0,Aceptable,3.0,Otros Canales,Presencial,1.0,2.0
+Cliente_799,2.0,Muy caro,5.0,Compra en sitio,Chatbot,1.0,1.0
+Cliente_800,4.0,Muy caro,1.0,Compra en sitio,Remoto,3.0,0.0
+Cliente_801,4.0,Muy caro,3.0,Otros Canales,Remoto,0.0,3.0
+Cliente_802,4.0,Caro,5.0,Compra Web,Telefónico,0.0,4.0
+Cliente_803,4.0,,1.0,Otros Canales,Telefónico,5.0,4.0
+Cliente_804,1.0,Caro,2.0,Compra Web,Presencial,5.0,2.0
+Cliente_805,1.0,Barato,0.0,Compra Web,Chatbot,4.0,5.0
+Cliente_806,2.0,Barato,0.0,Compra en sitio,Remoto,3.0,0.0
+Cliente_807,0.0,Aceptable,3.0,Compra Web,Presencial,2.0,3.0
+Cliente_808,4.0,Aceptable,5.0,Compra Web,Remoto,2.0,0.0
+Cliente_809,5.0,Barato,0.0,Otros Canales,Telefónico,3.0,4.0
+Cliente_810,0.0,Barato,5.0,Compra en sitio,Remoto,2.0,0.0
+Cliente_811,5.0,Caro,5.0,Compra Web,Chatbot,0.0,3.0
+Cliente_812,0.0,Caro,3.0,Compra Web,Chatbot,2.0,5.0
+Cliente_813,2.0,Aceptable,3.0,Compra en sitio,Telefónico,2.0,2.0
+Cliente_814,4.0,Muy caro,3.0,Otros Canales,Chatbot,3.0,1.0
+Cliente_815,4.0,Barato,0.0,Compra en sitio,Chatbot,3.0,0.0
+Cliente_816,3.0,Caro,3.0,Compra en sitio,Presencial,2.0,1.0
+Cliente_817,5.0,Aceptable,0.0,Compra Web,Remoto,1.0,4.0
+Cliente_818,0.0,Caro,3.0,Compra Web,Telefónico,3.0,2.0
+Cliente_819,0.0,Barato,4.0,Otros Canales,Telefónico,4.0,2.0
+Cliente_820,1.0,Barato,5.0,Compra Web,Telefónico,4.0,0.0
+Cliente_821,3.0,Rebacano,3.0,Compra Web,Telefónico,0.0,5.0
+Cliente_822,1.0,Muy caro,1.0,Compra en sitio,Telefónico,2.0,2.0
+Cliente_823,1.0,Muy barato,5.0,Compra Web,Chatbot,1.0,0.0
+Cliente_824,1.0,Aceptable,5.0,Otros Canales,Presencial,0.0,0.0
+Cliente_825,5.0,Caro,3.0,Compra en sitio,Telefónico,2.0,1.0
+Cliente_826,5.0,Aceptable,2.0,Otros Canales,Presencial,3.0,2.0
+Cliente_827,,Barato,,Compra en sitio,Presencial,4.0,0.0
+Cliente_828,2.0,Muy barato,5.0,Compra Web,Chatbot,5.0,1.0
+Cliente_829,1.0,Muy barato,1.0,Compra en sitio,Telefónico,1.0,3.0
+Cliente_830,3.0,Muy barato,5.0,Compra en sitio,Chatbot,5.0,1.0
+Cliente_831,0.0,Aceptable,1.0,Compra Web,Telefónico,4.0,1.0
+Cliente_832,5.0,Barato,0.0,Compra Web,,5.0,0.0
+Cliente_833,3.0,Caro,4.0,Otros Canales,Presencial,3.0,4.0
+Cliente_834,4.0,Caro,5.0,Otros Canales,Telefónico,2.0,4.0
+Cliente_835,5.0,Aceptable,3.0,Compra Web,Remoto,,5.0
+Cliente_836,5.0,Muy barato,0.0,Compra Web,Presencial,5.0,4.0
+Cliente_837,2.0,Muy caro,4.0,Compra Web,Remoto,3.0,1.0
+Cliente_838,0.0,Aceptable,3.0,Compra en sitio,Presencial,4.0,5.0
+Cliente_839,0.0,Aceptable,2.0,Compra en sitio,Chatbot,1.0,0.0
+Cliente_840,4.0,,3.0,Compra en sitio,Telefónico,3.0,2.0
+Cliente_841,4.0,Caro,1.0,Compra Web,Presencial,4.0,1.0
+Cliente_842,5.0,Aceptable,1.0,Otros Canales,Chatbot,1.0,1.0
+Cliente_843,1.0,Aceptable,2.0,Compra Web,Telefónico,2.0,5.0
+Cliente_844,2.0,,0.0,Compra en sitio,Telefónico,,0.0
+Cliente_845,2.0,Muy barato,,Compra en sitio,Presencial,2.0,3.0
+Cliente_846,5.0,Muy caro,3.0,Compra Web,Telefónico,0.0,1.0
+Cliente_847,3.0,Barato,1.0,Compra Web,Presencial,4.0,
+Cliente_848,1.0,Muy caro,0.0,Compra en sitio,Telefónico,1.0,3.0
+Cliente_849,5.0,Muy barato,2.0,Compra en sitio,Remoto,3.0,4.0
+Cliente_850,1.0,Caro,5.0,Compra en sitio,Chatbot,2.0,0.0
+Cliente_851,1.0,Muy barato,1.0,,Remoto,1.0,3.0
+Cliente_852,1.0,Barato,2.0,Compra en sitio,Presencial,4.0,0.0
+Cliente_853,5.0,Muy barato,3.0,Compra en sitio,Remoto,0.0,4.0
+Cliente_854,2.0,Barato,4.0,Otros Canales,Presencial,2.0,0.0
+Cliente_855,2.0,Barato,1.0,Compra Web,Telefónico,5.0,1.0
+Cliente_856,1.0,Barato,1.0,Otros Canales,Telefónico,1.0,3.0
+Cliente_857,3.0,Barato,3.0,Otros Canales,Presencial,5.0,0.0
+Cliente_858,0.0,Barato,5.0,Compra en sitio,Remoto,1.0,2.0
+Cliente_859,5.0,Caro,0.0,Compra Web,Telefónico,1.0,0.0
+Cliente_860,0.0,Muy caro,4.0,Compra en sitio,Chatbot,4.0,3.0
+Cliente_861,3.0,Aceptable,1.0,Compra Web,Telefónico,4.0,4.0
+Cliente_862,5.0,Muy caro,4.0,Otros Canales,Chatbot,4.0,4.0
+Cliente_863,1.0,Barato,1.0,Compra Web,Remoto,3.0,3.0
+Cliente_864,2.0,Caro,4.0,Compra en sitio,Chatbot,1.0,1.0
+Cliente_865,0.0,Muy barato,2.0,Compra en sitio,Chatbot,2.0,1.0
+Cliente_866,4.0,Caro,1.0,Compra en sitio,Chatbot,,4.0
+Cliente_867,4.0,Barato,4.0,Compra Web,Chatbot,4.0,4.0
+Cliente_868,3.0,Caro,0.0,Otros Canales,Telefónico,4.0,3.0
+Cliente_869,1.0,Caro,2.0,Otros Canales,Chatbot,5.0,1.0
+Cliente_870,0.0,Barato,2.0,Compra Web,Telefónico,5.0,4.0
+Cliente_871,1.0,Caro,0.0,Compra en sitio,Chatbot,1.0,1.0
+Cliente_872,0.0,Aceptable,4.0,Otros Canales,Presencial,4.0,4.0
+Cliente_873,3.0,Aceptable,3.0,Compra en sitio,Remoto,5.0,0.0
+Cliente_874,3.0,Caro,0.0,Compra Web,Chatbot,3.0,2.0
+Cliente_875,4.0,Muy barato,4.0,Compra en sitio,Presencial,3.0,5.0
+Cliente_876,1.0,Barato,0.0,,Chatbot,4.0,0.0
+Cliente_877,5.0,Aceptable,0.0,Otros Canales,Chatbot,5.0,5.0
+Cliente_878,4.0,Muy barato,1.0,,Chatbot,1.0,4.0
+Cliente_879,1.0,Caro,4.0,Compra Web,Presencial,1.0,2.0
+Cliente_880,4.0,,3.0,Compra en sitio,,1.0,2.0
+Cliente_881,5.0,Muy caro,1.0,Compra Web,Presencial,0.0,4.0
+Cliente_882,2.0,Aceptable,0.0,Compra en sitio,Remoto,4.0,4.0
+Cliente_883,2.0,Caro,5.0,Otros Canales,Chatbot,1.0,1.0
+Cliente_884,2.0,Barato,0.0,Compra Web,Telefónico,3.0,4.0
+Cliente_885,2.0,Caro,0.0,Compra Web,Chatbot,5.0,3.0
+Cliente_886,0.0,,4.0,Compra Web,Remoto,2.0,4.0
+Cliente_887,2.0,Caro,4.0,Otros Canales,Presencial,2.0,3.0
+Cliente_888,5.0,Muy barato,1.0,Compra en sitio,Chatbot,1.0,4.0
+Cliente_889,3.0,Muy barato,3.0,Otros Canales,Presencial,2.0,1.0
+Cliente_890,3.0,Muy barato,1.0,Compra Web,Presencial,2.0,3.0
+Cliente_891,0.0,Muy caro,2.0,Compra en sitio,Presencial,0.0,0.0
+Cliente_892,2.0,Barato,0.0,Otros Canales,Chatbot,3.0,3.0
+Cliente_893,2.0,Muy barato,5.0,Compra Web,Presencial,3.0,1.0
+Cliente_894,2.0,Muy caro,0.0,Compra Web,Presencial,,5.0
+Cliente_895,4.0,Barato,0.0,Otros Canales,Chatbot,0.0,3.0
+Cliente_896,,Caro,1.0,Otros Canales,Presencial,2.0,4.0
+Cliente_897,4.0,Presio,5.0,Otros Canales,Chatbot,4.0,4.0
+Cliente_898,1.0,Aceptable,5.0,Compra Web,Remoto,5.0,5.0
+Cliente_899,2.0,Muy caro,5.0,Otros Canales,Remoto,5.0,1.0
+Cliente_900,2.0,Muy caro,1.0,Compra Web,Remoto,2.0,2.0
+Cliente_901,4.0,Barato,,Otros Canales,Presencial,5.0,4.0
+Cliente_902,4.0,Caro,1.0,Compra Web,Telefónico,0.0,0.0
+Cliente_903,1.0,Aceptable,4.0,Compra Web,Telefónico,3.0,1.0
+Cliente_904,3.0,Muy barato,4.0,,Presencial,5.0,3.0
+Cliente_905,1.0,Muy barato,1.0,Otros Canales,Telefónico,2.0,3.0
+Cliente_906,4.0,Muy caro,5.0,Otros Canales,Chatbot,4.0,0.0
+Cliente_907,5.0,Barato,0.0,Compra Web,Telefónico,2.0,
+Cliente_908,4.0,Barato,1.0,Compra Web,Presencial,1.0,1.0
+Cliente_909,5.0,Muy barato,1.0,Compra Web,Presencial,2.0,0.0
+Cliente_910,0.0,Aceptable,1.0,Compra en sitio,Chatbot,0.0,4.0
+Cliente_911,4.0,Caro,2.0,Compra en sitio,Remoto,3.0,1.0
+Cliente_912,0.0,Aceptable,4.0,Compra Web,Presencial,3.0,3.0
+Cliente_913,3.0,Caro,5.0,Otros Canales,Chatbot,5.0,1.0
+Cliente_914,1.0,Muy barato,3.0,Otros Canales,Telefónico,0.0,5.0
+Cliente_915,5.0,Caro,5.0,Compra en sitio,Telefónico,1.0,2.0
+Cliente_916,1.0,Varata,3.0,Compra en sitio,Chatbot,0.0,1.0
+Cliente_917,0.0,Muy caro,2.0,Compra Web,Chatbot,2.0,2.0
+Cliente_918,5.0,Muy caro,1.0,Otros Canales,Presencial,0.0,1.0
+Cliente_919,1.0,Muy barato,2.0,Compra Web,Telefónico,0.0,2.0
+Cliente_920,4.0,Barato,2.0,Compra en sitio,Chatbot,1.0,5.0
+Cliente_921,2.0,Aceptable,0.0,Otros Canales,Telefónico,2.0,3.0
+Cliente_922,,Barato,4.0,Otros Canales,Chatbot,4.0,4.0
+Cliente_923,1.0,Muy caro,3.0,Compra en sitio,Telefónico,4.0,2.0
+Cliente_924,0.0,Muy caro,1.0,Compra Web,Remoto,3.0,5.0
+Cliente_925,0.0,Barato,3.0,Compra Web,Presencial,5.0,2.0
+Cliente_926,5.0,Barato,5.0,Otros Canales,Telefónico,0.0,3.0
+Cliente_927,5.0,Muy caro,3.0,Compra en sitio,Remoto,3.0,2.0
+Cliente_928,2.0,Aceptable,5.0,Otros Canales,Telefónico,1.0,5.0
+Cliente_929,4.0,Muy barato,4.0,Compra en sitio,Telefónico,4.0,5.0
+Cliente_930,0.0,Muy barato,,Compra Web,Remoto,0.0,0.0
+Cliente_931,1.0,Barato,3.0,Compra en sitio,Telefónico,1.0,3.0
+Cliente_932,3.0,Muy barato,3.0,Compra Web,Telefónico,5.0,0.0
+Cliente_933,0.0,Muy caro,5.0,Compra en sitio,Presencial,1.0,3.0
+Cliente_934,0.0,,2.0,Otros Canales,Remoto,0.0,2.0
+Cliente_935,2.0,Barato,4.0,Compra Web,Remoto,5.0,5.0
+Cliente_936,4.0,Barato,0.0,Otros Canales,Chatbot,1.0,0.0
+Cliente_937,3.0,Barato,1.0,Otros Canales,Telefónico,5.0,2.0
+Cliente_938,,Aceptable,3.0,Compra Web,Presencial,0.0,5.0
+Cliente_939,5.0,Muy barato,1.0,Compra Web,Telefónico,0.0,3.0
+Cliente_940,1.0,Barato,0.0,Otros Canales,Telefónico,5.0,5.0
+Cliente_941,3.0,Caro,1.0,Otros Canales,Chatbot,2.0,2.0
+Cliente_942,5.0,Caro,,Otros Canales,Telefónico,3.0,0.0
+Cliente_943,1.0,Muy caro,5.0,Otros Canales,Presencial,1.0,0.0
+Cliente_944,4.0,Muy barato,2.0,Compra Web,Presencial,1.0,5.0
+Cliente_945,1.0,,3.0,Compra Web,Chatbot,2.0,2.0
+Cliente_946,5.0,Caro,0.0,Otros Canales,Telefónico,2.0,1.0
+Cliente_947,2.0,Muy barato,1.0,Compra en sitio,Presencial,2.0,3.0
+Cliente_948,2.0,Muy caro,3.0,Compra en sitio,Telefónico,4.0,3.0
+Cliente_949,,Aceptable,2.0,,Telefónico,4.0,
+Cliente_950,5.0,Muy barato,5.0,Otros Canales,Telefónico,5.0,
+Cliente_951,2.0,Muy barato,3.0,Otros Canales,Chatbot,4.0,0.0
+Cliente_952,,Aceptable,0.0,Compra Web,Telefónico,0.0,4.0
+Cliente_953,4.0,Muy barato,2.0,Compra en sitio,Presencial,5.0,4.0
+Cliente_954,1.0,Muy caro,1.0,Compra en sitio,Telefónico,1.0,2.0
+Cliente_955,1.0,Muy caro,2.0,Compra en sitio,Presencial,3.0,1.0
+Cliente_956,5.0,Aceptable,2.0,Compra Web,Telefónico,0.0,1.0
+Cliente_957,,Barato,4.0,Compra en sitio,Presencial,1.0,3.0
+Cliente_958,2.0,Caro,2.0,Compra Web,Presencial,1.0,0.0
+Cliente_959,0.0,Barato,2.0,Compra Web,Telefónico,5.0,5.0
+Cliente_960,4.0,Muy barato,3.0,,Telefónico,2.0,1.0
+Cliente_961,3.0,Caro,1.0,Compra en sitio,Presencial,2.0,5.0
+Cliente_962,1.0,Aceptable,3.0,Compra Web,Remoto,0.0,4.0
+Cliente_963,0.0,Aceptable,3.0,Compra en sitio,Chatbot,2.0,5.0
+Cliente_964,0.0,Caro,0.0,Compra en sitio,Remoto,1.0,0.0
+Cliente_965,5.0,Muy caro,3.0,Otros Canales,Remoto,,0.0
+Cliente_966,1.0,Caro,4.0,Compra en sitio,Telefónico,4.0,5.0
+Cliente_967,5.0,Muy barato,4.0,Otros Canales,Chatbot,2.0,2.0
+Cliente_968,3.0,Muy caro,0.0,Compra Web,Remoto,1.0,1.0
+Cliente_969,0.0,Aceptable,5.0,Compra en sitio,Telefónico,5.0,2.0
+Cliente_970,0.0,Caro,1.0,Compra Web,Remoto,0.0,5.0
+Cliente_971,4.0,Barato,1.0,,,3.0,1.0
+Cliente_972,3.0,Barato,3.0,Compra Web,,2.0,3.0
+Cliente_973,0.0,Muy barato,3.0,Compra en sitio,Telefónico,1.0,2.0
+Cliente_974,3.0,Barato,5.0,Compra en sitio,Telefónico,3.0,2.0
+Cliente_975,1.0,Caro,3.0,Compra en sitio,Chatbot,3.0,5.0
+Cliente_976,2.0,Caro,1.0,Compra en sitio,Remoto,4.0,4.0
+Cliente_977,0.0,Barato,2.0,Compra en sitio,Telefónico,3.0,5.0
+Cliente_978,4.0,Caro,4.0,Compra en sitio,Presencial,5.0,2.0
+Cliente_979,1.0,Muy barato,2.0,Compra en sitio,Remoto,1.0,1.0
+Cliente_980,3.0,Muy caro,2.0,Compra en sitio,Presencial,1.0,4.0
+Cliente_981,5.0,Muy barato,1.0,Compra en sitio,Chatbot,2.0,5.0
+Cliente_982,1.0,Presio,2.0,Compra Web,Telefónico,2.0,5.0
+Cliente_983,0.0,Caro,5.0,Otros Canales,Presencial,2.0,2.0
+Cliente_984,,Muy caro,0.0,Compra en sitio,Chatbot,5.0,2.0
+Cliente_985,2.0,Caro,3.0,Otros Canales,Telefónico,3.0,3.0
+Cliente_986,1.0,Aceptable,0.0,Compra en sitio,Presencial,3.0,5.0
+Cliente_987,0.0,Rebacano,,Compra en sitio,Presencial,4.0,2.0
+Cliente_988,4.0,Caro,3.0,Compra Web,Chatbot,5.0,0.0
+Cliente_989,5.0,Caro,2.0,Compra Web,Telefónico,2.0,4.0
+Cliente_990,3.0,Muy caro,4.0,Otros Canales,Telefónico,0.0,0.0
+Cliente_991,1.0,Caro,3.0,Compra Web,Presencial,4.0,4.0
+Cliente_992,1.0,Muy caro,5.0,Compra Web,Presencial,0.0,5.0
+Cliente_993,,Barato,5.0,Otros Canales,Presencial,3.0,3.0
+Cliente_994,2.0,,5.0,Compra Web,Telefónico,4.0,2.0
+Cliente_995,4.0,Muy caro,5.0,Compra en sitio,Chatbot,4.0,2.0
+Cliente_996,5.0,Barato,2.0,Otros Canales,Chatbot,1.0,2.0
+Cliente_997,4.0,Muy caro,0.0,Otros Canales,Telefónico,3.0,5.0
+Cliente_998,0.0,Muy caro,3.0,Compra en sitio,Remoto,3.0,4.0
+Cliente_999,0.0,Aceptable,2.0,Compra Web,,5.0,2.0
+Cliente_1000,4.0,Muy barato,5.0,Otros Canales,Presencial,,0.0
