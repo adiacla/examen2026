@@ -82,11 +82,10 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota9 = 1
 
     # INSTRUCCION 10
-    try:
-        label
+    if label!=""
         print("INSTRUCCION 10: Gráfico tipo pie se hizo correctamente")
         nota10 = 1
-    except NameError:
+    else:
         print("INSTRUCCION 10: No realizó la gráfica")
     
     # INSTRUCCION 11
