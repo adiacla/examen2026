@@ -17,6 +17,7 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota2 = 1
     except NameError:
         print("INTRUCCION 2: No realizó la carga")
+        nota2 = 0
     
     # INSTRUCCION 3
     if df_calidad.shape == (1000, 8):
@@ -24,6 +25,7 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota3 = 1
     else:
         print(f"INTRUCCION 3: El DataFrame df_calidad tiene una forma diferente: {df_calidad.shape}.")
+        nota3 = 0
     
     # INSTRUCCION 3A
     try:
@@ -32,6 +34,7 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota3A = 1
     except NameError:
         print("INSTRUCCION 3A: No realizó el gráfico")
+        nota3A = 0
     
     # INSTRUCCION 4
     if respuesta1 == "":
@@ -54,7 +57,8 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         print("INSTRUCCION 6: Correcto hay nulos")
         nota6 = 1
     else:
-        print("INSTRUCCION 6: La respuesta es incorrecta.")
+        print('INSTRUCCION 6: La respuesta es incorrecta. Porque si hay nulos')
+        nota6 = 0
     
     # INSTRUCCION 7
     try:
@@ -62,7 +66,8 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         print("INSTRUCCION 7: Se realizó el conteo")
         nota7 = 1
     except NameError:
-        print("INSTRUCCION 7: No realizó el contacto")
+        print("INSTRUCCION 7: No realizó el conteo")
+        nota12 = 0
     
     # INSTRUCCION 8
     try:
@@ -71,6 +76,7 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota8 = 1
     except NameError:
         print("INSTRUCCION 8: No realizó la unión")
+        nota12 = 0
     
     # INSTRUCCION 9
     try:
@@ -81,20 +87,24 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         print("INSTRUCCION 9: Sí fue borrado")
         nota9 = 1
 
-    # INSTRUCCION 10
-    if label!=""
+    # INSTRUCCION 10 
+    
+    if label!=np.nan
         print("INSTRUCCION 10: Gráfico tipo pie se hizo correctamente")
         nota10 = 1
     else:
         print("INSTRUCCION 10: No realizó la gráfica")
+        nota10=0
     
     # INSTRUCCION 11
-    if nulos == "????":
-        print("INSTRUCCION 11: No listó los nulos")
-        nota11 = 0
-    else:
-        print("INSTRUCCION 11: Sí listó los nulos.")
+    try:
+        nulos 
+        print("INSTRUCCION 11: Si listó los nulos")
         nota11 = 1
+        
+    except KeyError:
+        print("INSTRUCCION 11: No listó los nulos.")
+        nota11 = 0
     
     # INSTRUCCION 12
     if seleccion12 == "Soporte":
@@ -102,6 +112,7 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota12 = 1
     else:
         print("INSTRUCCION 12: No fue borrada la columna soporte")
+        nota12 = 0
     
     # INSTRUCCION 13
     if num_registros_quedan == 982:
@@ -109,6 +120,7 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota13 = 1
     else:
         print("INSTRUCCION 13: No fueron borrados los que tienen más de dos nulos")
+        nota13 = 0
     
     # INSTRUCCION 14
     if totalnulos == 0:
@@ -116,6 +128,7 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota14 = 1
     else:
         print("INSTRUCCION 14: No fueron imputados todos los nulos")
+        nota14 = 0
     
     # INSTRUCCION 15
     try:
