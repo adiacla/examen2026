@@ -31,11 +31,10 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota3 = 0
     
     # INSTRUCCION 3A
-    try:
-        nps_percentage
+    if len(nps_percentage)!=0:
         print("INSTRUCCION 3A: Se realizó el gráfico correctamente")
         nota3A = 1
-    except NameError:
+    else:
         print("INSTRUCCION 3A: No realizó el gráfico")
         nota3A = 0
     
@@ -64,22 +63,20 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota6 = 0
     
     # INSTRUCCION 7
-    try:
-        Cantidad_soporte
+    if  len(Cantidad_soporte)!=0:
         print("INSTRUCCION 7: Se realizó el conteo")
         nota7 = 1
-    except NameError:
+    else:
         print("INSTRUCCION 7: No realizó el conteo")
-        nota12 = 0
+        nota7 = 0
     
     # INSTRUCCION 8
-    try:
-        df_final
+    if len(df_final)!=0:
         print("INSTRUCCION 8: Se unió correctamente los dos dataframe")
         nota8 = 1
-    except NameError:
+    else:
         print("INSTRUCCION 8: No realizó la unión")
-        nota12 = 0
+        nota9 = 0
     
     # INSTRUCCION 9
     try:
@@ -98,15 +95,16 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota10=0
 
     # INSTRUCCION 11
-    try:
-        nulos 
-        print("INSTRUCCION 11: Si listó los nulos")
+    
+    if  len(nulos)!=0:
+        print("INSTRUCCION 11: Se realizó el conteo de nulos")
         nota11 = 1
-        
-    except KeyError:
-        print("INSTRUCCION 11: No listó los nulos.")
-        nota11 = 0
-    print("pase3")
+    else:
+        print("INSTRUCCION 11: No realizó el conteo de nulos")
+        nota11= 0
+    
+
+    
     # INSTRUCCION 12
     if seleccion12 == "Soporte":
         print("INSTRUCCION 12: Fue borrada la columna Soporte")
@@ -171,11 +169,10 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota18 = 0
     
     # INSTRUCCION 20
-    try:
-        correlation_matrix
+    if not correlation_matrix.empty: 
         print("INSTRUCCION 20: Se realizó la matriz de correlación")
         nota20 = 1
-    except NameError:
+    else:
         print("INSTRUCCION 20: No realizó la matriz de correlación")
         nota20 = 0
             
@@ -188,22 +185,20 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota20A = 0
         
     # INSTRUCCION 21
-    try:
-        df_balanced
-        print("INSTRUCCION 21: Se hizo el balanceo")
-        nota21 = 1
-    except NameError:
+    if df_balanced.empty:
         print("INSTRUCCION 21: No se hizo el balanceo")
         nota21 = 0
+    else:
+        print("INSTRUCCION 21: Se hizo el balanceo")
+        nota21 = 1
         
     # INSTRUCCION 22
-    try:
-        X_train
-        print("INSTRUCCION 22: Se realizó la partición")
-        nota22 = 1
-    except NameError:
-        print("INSTRUCCION 22: No se hizo la partición")
+    if X_train.empty:
+        print("INSTRUCCION 22: No se realizó la partición")
         nota22 = 0
+    else:
+        print("INSTRUCCION 22: Se hizo la partición")
+        nota22 = 1
         
     # Calcular nota final
     nota = (nota2 + nota3 + nota3A + nota4 + nota5 + nota6 + nota7 + nota8 +
