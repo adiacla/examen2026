@@ -88,14 +88,14 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
         nota9 = 1
 
     # INSTRUCCION 10 
-    
+    print("pase" 1)
     if not label.empty:
         print("INSTRUCCION 10: Gráfico tipo pie se hizo correctamente")
         nota10 = 1
     else:
         print("INSTRUCCION 10: No realizó la gráfica")
         nota10=0
-    print("pase" 1)
+        print("pase 2")
     # INSTRUCCION 11
     try:
         nulos 
@@ -105,7 +105,7 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
     except KeyError:
         print("INSTRUCCION 11: No listó los nulos.")
         nota11 = 0
-    print("pase2")
+    print("pase3")
     # INSTRUCCION 12
     if seleccion12 == "Soporte":
         print("INSTRUCCION 12: Fue borrada la columna Soporte")
