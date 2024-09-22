@@ -89,9 +89,9 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
 
     # INSTRUCCION 10 
     
-    if label!=np.nan
+    if not label.empty:
         print("INSTRUCCION 10: Gráfico tipo pie se hizo correctamente")
-        nota10 = 1
+        nota10 = 
     else:
         print("INSTRUCCION 10: No realizó la gráfica")
         nota10=0
