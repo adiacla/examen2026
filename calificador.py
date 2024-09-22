@@ -9,22 +9,25 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
     nota2 = nota3 = nota3A = nota4 = nota5 = nota6 = nota7 = nota8 = nota9 = 0
     nota10 = nota11 = nota12 = nota13 = nota14 = nota15 = nota16 = nota17 = nota18 = 0
     nota20 = nota20A = nota21 = nota22 = 0
+    
+    print("RESULTADO DEL EXAMEN\n")
+    print("**********************")
 
     # INSTRUCCION 2
     try:
         df_nps
-        print("INTRUCCION 2: Cargo correctamente los dataframe")
+        print("INSTRUCCION 2: Cargo correctamente los dataframe")
         nota2 = 1
     except NameError:
-        print("INTRUCCION 2: No realizó la carga")
+        print("INSTRUCCION 2: No realizó la carga")
         nota2 = 0
     
     # INSTRUCCION 3
     if df_calidad.shape == (1000, 8):
-        print("INTRUCCION 3: El DataFrame df_calidad tiene la forma correcta: (1000, 8).")
+        print("INSTRUCCION 3: El DataFrame df_calidad tiene la forma correcta: (1000, 8).")
         nota3 = 1
     else:
-        print(f"INTRUCCION 3: El DataFrame df_calidad tiene una forma diferente: {df_calidad.shape}.")
+        print(f"INSTRUCCION 3: El DataFrame df_calidad tiene una forma diferente: {df_calidad.shape}.")
         nota3 = 0
     
     # INSTRUCCION 3A
@@ -86,16 +89,14 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
     except KeyError:
         print("INSTRUCCION 9: Sí fue borrado")
         nota9 = 1
-
-    # INSTRUCCION 10 
-    print("pase" 1)
-    if not label.empty:
+        
+    if not label=="":
         print("INSTRUCCION 10: Gráfico tipo pie se hizo correctamente")
         nota10 = 1
     else:
         print("INSTRUCCION 10: No realizó la gráfica")
         nota10=0
-        print("pase 2")
+
     # INSTRUCCION 11
     try:
         nulos 
@@ -113,6 +114,8 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
     else:
         print("INSTRUCCION 12: No fue borrada la columna soporte")
         nota12 = 0
+        
+        
     
     # INSTRUCCION 13
     if num_registros_quedan == 982:
@@ -205,14 +208,14 @@ def evaluador(df_nps, df_calidad, nps_percentage, respuesta1, total_diferentes, 
     # Calcular nota final
     nota = (nota2 + nota3 + nota3A + nota4 + nota5 + nota6 + nota7 + nota8 +
             nota9 + nota10 + nota11 + nota12 + nota13 + nota14 + nota15 + 
-            nota16 + nota17 + nota18 + nota20 + nota20A + nota21 + nota22) / 22.0
+            nota16 + nota17 + nota18 + nota20 + nota20A + nota21 + nota22) / 4.4
 
     # Determinar el resultado basado en la nota
     if nota < 3:
-        resultado = "https://github.com/adiacla/examen2026/blob/main/rechazado.JPG"
+        resultado = "https://raw.githubusercontent.com/adiacla/examen2026/main/rechazado.JPG"
     elif nota < 3.9:
-        resultado = "https://github.com/adiacla/examen2026/blob/main/restriccion.JPG"
+        resultado = "https://raw.githubusercontent.com/adiacla/examen2026/main/restriccion.JPG"
     else:
-        resultado = "https://github.com/adiacla/examen2026/blob/main/aprobado.JPG"   
+        resultado = "https://raw.githubusercontent.com/adiacla/examen2026/main/aprobado.JPG"   
 
     return nota, resultado
