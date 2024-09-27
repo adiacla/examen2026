@@ -23,7 +23,7 @@ def evaluador(seleccion1='', seleccion2='', seleccion3='', seleccion4='', selecc
         'seleccion3': 'One-hot encoding',
         'seleccion4': 'Todas las anteriores son correctas',
         'seleccion5': 'La clasificación predice etiquetas categóricas, mientras que la regresión predice valores continuos',
-        'seleccion6': 'Cuando se tiene un conjunto de datos etiquetado y se desea predecir etiquetas',
+        'seleccion6': 'Cuando se busca explorar la estructura subyacente de un conjunto de datos sin etiquetas',
         'seleccion7': 'Aumentar la representatividad de la clase minoritaria',
         'seleccion8': 'Predecir la venta futura de un producto',
         'seleccion9': 'Un clasificador predice etiquetas, un regresor predice valores continuos',
